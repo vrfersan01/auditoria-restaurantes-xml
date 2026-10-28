@@ -1,0 +1,425 @@
+nombre,direccion,codigo_postal,tipo_cocina,puntuacion
+Osteria Picasso,"Calle San Vicente, 58",12637,Italiana,6.6
+La Lonja de Sagrada,"Plaza Mayor, 62",46629,Marisquería,3.1
+"Bar ""Alameda""","Avenida Constitución, 81",08407,India,4.3
+Bambú Giralda,"Plaza de España, 88",46571,China,11.5
+Curry Paco,"Calle Cervantes, 7",50373,India,5.9
+Da Albufera,"Calle San Vicente, 109",11822,italiana,8.0
+La Lonja de Luna,"Avenida de Aragón, 108",99000,Marisquería,9.7
+   ,"Paseo de la Alameda, 13",11909,Hamburguesería,7.4
+Cañas y Goya,"Calle de la Paz, 32",15691,Tapas,5.9
+Smash Turia,"Calle Cervantes, 141",11716,Hamburguesería,6.0
+Mar de Aurelio,"Avenida de Aragón, 3",46154,,7.3
+   
+La Lonja de Rambla,"Avenida Constitución, 93",08267,Marisquería,7.6
+Brotes de Rambla,"Avenida del Puerto, 75",29469,Vegetariana,7.5.1
+Da Malvarrosa,"Avenida de Aragón, 116",08991,Italiana,5.6
+,"Avenida Constitución, 95",28200,Tapas,8.0
+Sal y Cervantes,"Plaza de España, 1",15595,Mediterránea,6.5
+Pizzería Remedios,"Avenida del Puerto, 140",03685,Italiana,8.0
+Gran Muralla Pepe,"Avenida Constitución, 35",28O01,China,6.0
+Ramen Ramón,"Calle Colón, 35",36314,Japonesa,6.2
+Sal y Picasso,"Camino Viejo, 4",28399,Mediterránea,9.0
+Bodega Retiro,"Calle Mayor, 7",11488,Española,4.9
+Curry Tomás,"Avenida Constitución, 120",36634,India,8.4
+Izakaya Olivo,"Plaza Mayor, 60",46561,Japonesa,5.4
+Cantina Marta,"Avenida del Puerto, 116",8496,Mexicana,7.7
+Mesón Retiro,"Paseo de la Alameda, 42",08400,Española,4.5
+Patty Ramón,"Calle Colón, 89",08270,Hamburguesería,5.9
+Terraza Cervantes,"Avenida Constitución, 114",28540,Mediterránea,8.3
+Tandoori Aurelio,"Plaza de España, 117",29418,India,6.5
+Brasa Pepe,"Calle Colón, 91",18704,Asador,6.7
+Grill Lola,"Avenida de Aragón, 143",36749,Hamburguesería,4.1
+Masala Alameda,"Calle San Vicente, 68",28978,India,5.7
+Trattoria Sagrada,"Calle Colón, 28",11322,Italiana,4.5
+Osteria Tomás,"Avenida de Aragón, 17",46422,Italiana,8.8
+Curry Pepe,"Calle de la Paz, 6",03126,India,3.2
+Smash Tomás,"Avenida del Puerto, 104",29623,Hamburguesería,4.1
+Brotes de Alameda,"Calle del Mar, 129",03399,Vegetariana,4.6
+Dragón Giralda,"Calle Mayor, 73",29297,China,7.8
+Osteria Sagrada,"Calle Mayor, 139",29203,Italiana,6.6
+Tapería Carmen,"Calle San Vicente, 10",28536,Tapas,5.1
+Leña Pepe,"Paseo de la Alameda, 92",48394,Asador,5.3
+Sal y Sagrada,"Calle Mayor, 139",18407,Mediterránea,9.0
+   
+"Bar ""Turia""","Avenida Constitución, 107",03982,Japonesa,4.8
+Asador Carmen,"Avenida de Aragón, 88",11773,Asador,7.9
+Casa Retiro,"Avenida Constitución, 15",41696,Española,6.2
+Kyoto Malvarrosa,"Calle de la Paz, 144",03352,Japonesa,8.8
+Jade Cervantes,"Avenida Constitución, 149",03193,China,3.7
+Sal y Goya,"Calle del Mar, 134",48815,Mediterránea,N/A
+
+Sushi Pilar,"Avenida de Aragón, 36",28926,Japonesa,2.6
+"Bar ""Luna""","Camino Viejo, 138",11832,Mexicana,7.2
+Sushi Ramón,"Camino Viejo, 86",99000,Japonesa,4.8
+Bar Carmen,"Calle Cervantes, 139",03366,Tapas,3.5
+Sal y Giralda,"Avenida Constitución, 109",50832,Mediterránea,8.1
+Grill Giralda,"Calle Colón, 81",18149,HAMBURGUESERÍA,3.7
+Trattoria Sol,"Calle Cervantes, 56",18158,Italiana,6.9
+Cantina Lola,"Avenida Constitución, 28",46391,Mexicana,4.4
+Tandoori Sol,"Avenida Constitución, 31",18532,India,4.3
+,"Plaza de España, 23",30797,China,4.8
+Brasa Carmen,"Ronda Norte, 83",30413,Asador,4.8
+Casa Remedios,"Calle del Mar, 90",48852,Mexicana,8.4
+Sal y Paco,"Paseo de la Alameda, 111",03337,Mediterránea,8.6
+Jade Cervantes,"Avenida de Aragón, 60",29996,China,100
+Osteria Pilar,"Camino Viejo, 103",46563,Italiana,7.7
+Parrilla Tomás,"Avenida Constitución, 140",11215,  ,5.6
+Leña Marta,"Calle Colón, 3",03573,Asador,7.6
+Ramen Albufera,"Calle Mercado, 122",30347,Japonesa,2.6
+Taquería Alameda,"Avenida de Aragón, 84",46799,Mexicana,4.0
+Hortus Mestalla,"Plaza de España, 143",08552,Vegetariana,8.1
+Pizzería Tomás,"Plaza Mayor, 53",12690,Italiana,3.7
+Tandoori Albufera,"Paseo de la Alameda, 28",46278,India,"9,4"
+Mesón Turia,"Calle de la Paz, 121",29352,Española,5.0
+La Lonja de Gerardo,"Ronda Norte, 65",46660,Marisquería,6.1
+Taberna Rambla,"Plaza Mayor, 51",50281,Española,6.2
+Cañas y Pilar,"Avenida del Puerto, 106",46744,Tapas,7.8
+Leña Goya,"Ronda Norte, 126",29677,Asador,5.0
+Sushi Turia,"Calle Colón, 66",11534,Japonesa,"8,8"
+Asador Mestalla,"Calle Mayor, 119",41215,Asador,5.6
+Grill Picasso,"Avenida de Aragón, 126",28573,Hamburguesería,7.5
+Jade Retiro,"Gran Vía, 39",12565,China,7.6
+Izakaya Paco,"Avenida del Puerto, 9",03809,Japonesa,4.7
+Izakaya Gerardo,"Calle del Mar, 33",15173,Japonesa,3.9
+Mesón Alameda,"Avenida Constitución, 140",46308,Española,4.1,extra
+,"Calle Mercado, 40",29150,China,7.7
+Taberna Pepe,"Calle del Mar, 66",29775,Española,2.7
+Grill Ramón,"Calle Mercado, 52",08247,Hamburguesería,4.1
+Raíces Sol,"Calle Mercado, 109",15877,Vegetariana,5.2
+La Hacienda de Retiro,"Avenida Constitución, 24",08757,Mexicana,3.9
+Osteria Malvarrosa,"Calle Colón, 30",8209,Italiana,7.2
+Casa Pepe,"Paseo de la Alameda, 69",03757,Mexicana,5.2
+Taberna Picasso,"Avenida de Aragón, 91",30142,Española,3.3
+Izakaya Sol,"Avenida del Puerto, 144",29774,Japonesa,4.4
+Asador Cervantes,"Calle San Vicente, 71",ABCDE,Asador,3.1
+Casa Picasso,"Calle San Vicente, 99",36983,Española,5.8
+Verde Paco,"Paseo de la Alameda, 7",28402,Vegetariana,3.2
+Smash Pepe,"Plaza de España, 134",28751,Hamburguesería,9.5
+Gran Muralla Pilar,"Calle de la Paz, 83",15708,China,4.3
+"Bar ""Remedios""","Calle Colón, 113",08788,Mexicana,3.3
+Brotes de Goya,"Avenida Constitución, 56",33748,Vegetariana,2.7
+Raíces Pilar,"Ronda Norte, 69",48885, Vegetariana,7.9
+Bodega Mestalla,"Calle Colón, 136",28577,Española,5.2
+Taquería Turia,"Camino Viejo, 29",28825,Mexicana,9.7
+Cala Remedios,"Avenida de Aragón, 44",11273,Mediterránea,9.2
+Osteria Carmen,"Avenida del Puerto, 56",18119,Italiana,9.1
+Burger Sol,"Plaza Mayor, 132",46980,Hamburguesería,9.3
+Casa Marta,"Calle Colón, 17",53001,Mexicana,2.6
+Marisquería Goya,"Plaza de España, 140",08561,Marisquería,7.1
+Puerto Goya,"Calle del Mar, 59",18403,Marisquería,5.9
+Taquería Pepe,"Plaza de España, 113",12183,Mexicana,3.8
+Izakaya Picasso,"Camino Viejo, 72",08480,Japonesa,3.2
+Dragón Giralda,"Calle de la Paz, 122",28704,China,8.3
+Kyoto Turia,"Calle Mayor, 98",46989,Japonesa,7.6
+Parrilla Alameda,"Calle del Mar, 22",36022,Asador,7.2
+Taquería Luna,"Calle Cervantes, 148",36184,Mexicana,4.7
+Burger Pepe,"Calle Colón, 118",36100,Hamburguesería,4.3
+Raíces Mestalla,"Avenida Constitución, 29",46131,Vegetariana,2.5
+Smash Paco,"Avenida de Aragón, 6",15624,Hamburguesería,4.7
+Taberna Rambla ,"Plaza Mayor, 51",50281,Española,7.1
+Kyoto Retiro,"Plaza Mayor, 32",28233,Japonesa,8.6
+Verde Luna,"Plaza Mayor, 114",03257, Vegetariana,5.8
+La Lonja de Goya,"Ronda Norte, 44",28628,Marisquería,6.5
+Cantina Malvarrosa,"Camino Viejo, 58",29170,Mexicana,8.3
+Casa Paco,"Camino Viejo, 54",12563,Mexicana,4.7
+Patty Malvarrosa,"Plaza Mayor, 63",8521,Hamburguesería,4.7
+Bar Pilar,"Calle Mercado, 149",28456,Tapas,9.7
+Parrilla Alameda,"Calle Cervantes, 10",12527,Asador,5.0
+Curry Remedios,"Calle Cervantes, 130",50852,India,9.7
+Sal y Pepe,"Calle Mercado, 100",12914,Mediterránea,9.1
+Casa Sol,"Calle Mayor, 28",41221,Mexicana,3.8
+La Lonja de Goya,"Calle Colón, 112",11195,Marisquería,5.2
+Burger Lola,"Camino Viejo, 32",15616,Hamburguesería,5.0
+Burger Olivo,"Calle Cervantes, 1",28912,Hamburguesería,3.0
+Gran Muralla Cervantes,"Calle San Vicente, 28",08896,China,8.3
+Hortus Mestalla,"Plaza de España, 89",41153,Vegetariana,5.7
+Da Sagrada,"Plaza de España, 6",15434,Italiana,8.9
+Da Goya,"Avenida Constitución, 90",28049,Italiana,5.5
+Cala Gerardo,"Calle de la Paz, 109",28359,Mediterránea,9.4
+Mesón Mestalla,"Calle Cervantes, 67",48805,Española,3.2
+La Hacienda de Sagrada,"Plaza de España, 148",12271,Mexicana,4.8
+Rías Remedios,"Calle Colón, 136",48260,Marisquería,2.7
+Rías Picasso,"Calle Mercado, 67",08725,Marisquería,-1
+Cañas y Carmen,"Calle Cervantes, 68",99000,Tapas,8.9
+Taquería Aurelio,"Ronda Norte, 82",28677,Mexicana,"5,0"
+Parrilla Mestalla,"Camino Viejo, 28",50891,Asador,8.5
+Mar de Albufera,"Camino Viejo, 92",46779,Mediterránea,5.1
+Pinchos Rambla,"Avenida Constitución, 3",50424,Tapas,5.9
+Marisquería Malvarrosa,"Avenida del Puerto, 30",29443,Marisquería,4.4
+Masala Pepe,"Avenida del Puerto, 20",41181,India,2.9
+Bambú Lola,"Avenida del Puerto, 75",28111,China,8.9
+da malvarrosa,"Avenida de Aragón, 116",08991,Italiana,9.7
+Taquería Malvarrosa,"Calle San Vicente, 19",36896,Mexicana,"7,9"
+Cala Paco,"Calle Mayor, 74",48945,Mediterránea,5.2
+Parrilla Aurelio,"Calle Mercado, 80",28274,Asador,7.2
+Grill Mestalla,"Avenida del Puerto, 18",15989,Hamburguesería,6.7
+   ,"Calle Mayor, 74",28816,Vegetariana,3.4
+La Hacienda de Giralda,"Paseo de la Alameda, 53",29164,Mexicana,100
+   
+Pinchos Pepe,"Gran Vía, 120",33079,Tapas,5.1
+Trattoria Sol,"Plaza de España, 71",18225,Italiana,3.9
+Tandoori Pilar,"Calle San Vicente, 140",46707,India,4.1
+Smash Rambla,"Paseo de la Alameda, 44",28199,Hamburguesería,6.5
+Asador Luna,"Avenida Constitución, 93",08193,Asador,8.0
+Bambú Ramón,"Paseo de la Alameda, 74",18051,China,9.7
+Gran Muralla Giralda,"Avenida del Puerto, 79",28275,China,5.8
+Tapería Aurelio,"Avenida de Aragón, 107",46491,Tapas,4.8
+Taj Malvarrosa,"Avenida del Puerto, 18",3775,India,5.7
+"Bar ""Tomás""","Gran Vía, 8",29097, Mexicana,4.3
+Patty Alameda,"Calle de la Paz, 11",50863,Hamburguesería,7.4
+Cañas y Alameda,"Calle Mercado, 16",29895,Tapas,
+Smash Turia,"Calle del Mar, 104",99000,Hamburguesería,8.1
+Asador Olivo,"Avenida del Puerto, 11",30150,Asador,8.8
+Brotes de Lola,"Calle del Mar, 32",03121,Vegetariana,4.3
+   
+Cantina Gerardo,"Plaza Mayor, 3",28040,Mexicana,100
+Patty Sol,"Paseo de la Alameda, 51",12309,Hamburguesería,3.8
+Terraza Olivo,"Calle Mercado, 52",46407,Mediterránea,"5,2"
+Gran Muralla Mestalla,"Avenida Constitución, 68",29732,CHINA,4.2
+Pinchos Turia,"Gran Vía, 69",08082,Tapas,5.9
+Cantina Pilar,"Plaza Mayor, 117",46969,Mexicana,4.5
+Pinchos Malvarrosa,"Avenida del Puerto, 71",15345,Tapas,7.6
+Da Picasso,"Ronda Norte, 108",46123,Italiana,7.6,extra
+Tandoori Malvarrosa,"Paseo de la Alameda, 64",29830,India,6.7
+Gran Muralla Gerardo,"Avenida de Aragón, 4",03933,China,3.7
+Curry Gerardo,"Plaza de España, 141",28273,India,8.4
+
+Cala Carmen,"Plaza de España, 95",33774, Mediterránea,6.6
+Casa Ramón,"Calle Mayor, 11",29650,Española,3.5
+Taberna Marta,"Calle San Vicente, 114",46204,Española,8.0
+Puerto Goya,"Calle de la Paz, 10",50464,Marisquería,2.7
+Bodega Picasso,"Avenida Constitución, 115",11712,,8.1
+Mar de Ramón,"Calle Cervantes, 103",41365,Mediterránea,3.1
+Mesón Pepe,"Calle de la Paz, 10",46871,Española,4.7
+   ,"Calle Cervantes, 43",33202,Asador,8.0
+Da Goya,"Calle del Mar, 46",36251,Italiana,9.2
+Pizzería Olivo,"Plaza de España, 39",12883,Italiana,8.4
+Verde Tomás,"Calle Colón, 150",12174,Vegetariana,4.0
+Burger Giralda,"Gran Vía, 51",30063,Hamburguesería,8.6
+Verde Picasso,"Calle del Mar, 143",28139,Vegetariana,8.4
+Marisquería Pilar,"Calle Mayor, 104",30844,Marisquería,5.0
+Masala Marta,"Calle de la Paz, 85",28405,India,6.1
+Grill Tomás,"Gran Vía, 66",18743,Hamburguesería,3.2
+Tandoori Cervantes,"Calle Colón, 97",03230,India,8.4
+Cañas y Luna,"Calle Colón, 147",46675,Tapas,8.8
+Sushi Picasso,"Paseo de la Alameda, 80",28647,Japonesa,3.6
+Pinchos Paco,"Calle de la Paz, 120",46804,Tapas,8.9
+Rías Marta,"Calle San Vicente, 139",11603,Marisquería,11.5
+Verde Pilar,"Calle San Vicente, 119",18056,Vegetariana,8.5,extra
+Cantina Giralda,"Ronda Norte, 46",33606,Mexicana,5.2
+Cañas y Giralda,"Avenida Constitución, 135",28938,Tapas,5.9
+Tapería Retiro,"Calle San Vicente, 104",28180,Tapas,3.2
+Smash Luna,"Avenida del Puerto, 6",08132, Hamburguesería,4.1
+Taberna Picasso ,"Avenida de Aragón, 91",30142,Española,7.7
+
+Mar de Mestalla,"Gran Vía, 67",41130,  mediterránea ,6.1
+"Bar ""Aurelio""","Calle del Mar, 31",46749,Mediterránea,7.6
+Taberna Aurelio,"Avenida Constitución, 19",30075,,9.5
+Pizzería Sagrada,"Avenida de Aragón, 58",41646,italiana,5.2
+Terraza Turia,"Calle Mercado, 140",46791,Mediterránea,3.3
+Taj Lola,"Avenida del Puerto, 50",46149,India,3.8
+Mesón Lola,"Calle Colón, 1",50736,Española,3.4
+Taj Mestalla,"Calle San Vicente, 131",08296,India,3.3
+Mesón Rambla,"Camino Viejo, 17",41384,Española,8.3
+Tapería Giralda,"Calle Colón, 56",11908,Tapas,7.4
+Sal y Goya,"Plaza Mayor, 125",33048,Mediterránea,4.6
+Bodega Pilar,"Calle Cervantes, 100",11705,Española,4.9
+Brasa Gerardo,"Plaza Mayor, 111",03855,Asador,9.1
+Brasa Mestalla,"Avenida Constitución, 80",3750,Asador,7.1
+Mar de Marta,"Plaza Mayor, 23",41628,Mediterránea,"4,2"
+Tapería Alameda,"Calle Mayor, 73",36404,Tapas,5.2
+Verde Albufera,"Ronda Norte, 110",3713,Vegetariana,4.1
+Casa Rambla,"Calle Colón, 100",18865,Mexicana
+Trattoria Mestalla,"Camino Viejo, 73",03294,Italiana,5.4
+Rías Rambla,"Calle de la Paz, 118",8028,Marisquería,4.8
+Grill Paco,"Camino Viejo, 2",30348,hamburguesería,5.3
+La Lonja de Sol,"Calle Cervantes, 140",46512,Marisquería,6.6
+Sushi Alameda,"Calle de la Paz, 147",48176,Japonesa,8.4
+Taberna Olivo,"Calle de la Paz, 128",46116,Española,2.5
+La Lonja de Olivo,"Calle Mayor, 46",11832,Marisquería,-1
+Taberna Pepe,"Calle Mercado, 38",12534,Española,4.4
+Kyoto Picasso,"Camino Viejo, 40",03876,Japonesa,4.4
+Da Sagrada,"Calle Mercado, 99",03216,Italiana,3.7
+Taquería Olivo,"Plaza Mayor, 115",12163,Mexicana,3.1
+Osteria Aurelio,"Calle Cervantes, 77",15658,Italiana,8.3
+Parrilla Cervantes,"Calle del Mar, 45",46545,Asador,9.2
+Marisquería Rambla,"Calle Colón, 19",28747,Marisquería,5.7
+Mar de Albufera,"Calle Colón, 120",46226,Mediterránea,6.3
+Pizzería Albufera,"Avenida Constitución, 24",50681,Italiana,2.7
+Brasa Retiro,"Calle del Mar, 39",12186,Asador,ocho
+Taj Tomás,"Ronda Norte, 127",36513,India,3.9
+Da Malvarrosa,"Calle Cervantes, 84",28441,Italiana,8.8
+Taberna Giralda,"Calle Mayor, 19",46300,  ,5.2
+Curry Marta,"Calle Mercado, 93",18292,India,4.9
+Casa Cervantes,"Ronda Norte, 30",3557,Española,3.4
+Casa Aurelio,"Plaza de España, 96",48044,Española,4.4
+Asador Turia,"Gran Vía, 119",11747,Asador,9.1,extra
+Rías Retiro,"Calle Mercado, 17",46073,Marisquería,3.0
+Rías Malvarrosa,"Calle Cervantes, 68",03388,Marisquería,3.0
+Osteria Goya,"Calle de la Paz, 35",46051,Italiana,7.4
+Jade Albufera,"Avenida del Puerto, 43",46564,China,7.2
+Marisquería Pilar,"Ronda Norte, 64",46809,Marisquería,4.7
+Casa Retiro,"Camino Viejo, 145",15580,Mexicana,4.8
+Da Picasso,"Calle Cervantes, 37",3473,Italiana,4.7
+Tapería Tomás,"Avenida del Puerto, 97",50375,Tapas,6.3
+Bambú Giralda,"Paseo de la Alameda, 84",08547,China,4.5
+Cala Picasso,"Calle Mercado, 55",03030,Mediterránea,7.2
+Cala Aurelio,"Calle del Mar, 6",48600,Mediterránea,7.6
+Kyoto Retiro,"Calle San Vicente, 79",08253,Japonesa,3.0
+Marisquería Gerardo,"Calle Mayor, 126",03472,Marisquería,5.8
+Sal y Alameda,"Camino Viejo, 146",46551,Mediterránea,2.6
+Pinchos Ramón,"Plaza de España, 60",3047,Tapas,9.7
+Terraza Olivo,"Calle San Vicente, 70",08841,Mediterránea,6.8
+Jade Giralda,"Calle San Vicente, 131",46747,China,5.8
+Bambú Cervantes,"Avenida Constitución, 38",03715,China,5.3
+Tandoori Carmen,"Calle Mayor, 48",11856,India,4.5
+Gran Muralla Alameda,"Calle Mayor, 41",50913,China,7.1
+La Lonja de Turia,"Avenida Constitución, 97",11526,Marisquería,6.1
+Curry Sagrada,"Avenida Constitución, 118",18890,India,"9,1"
+Jade Goya,"Calle Mercado, 3",50369,China,9.5
+Taj Giralda,"Calle Mercado, 126",46554,India,6.5
+Hortus Aurelio,"Calle Colón, 67",03901,Vegetariana,6.3
+Da Cervantes,"Gran Vía, 105",03044,Italiana,8.5
+Sushi Ramón,"Plaza Mayor, 44",28632,Japonesa,2.9
+"Bar ""Picasso""","Avenida del Puerto, 122",30479,China,6.2
+Grill Lola ,"Avenida de Aragón, 143",36749,Hamburguesería,8.6
+Jade Sol,"Plaza de España, 8",28963,China,8.8
+Puerto Mestalla,"Gran Vía, 36",15092,Marisquería,9.5
+Masala Sagrada,"Avenida de Aragón, 55",29881,India,3.4
+Gran Muralla Goya,"Plaza Mayor, 49",33415,China,6.0
+Pinchos Goya,"Plaza Mayor, 51",28230,Tapas,3.2
+Masala Paco,"Avenida Constitución, 123",28232,India,3.8
+TAJ LOLA,"Avenida del Puerto, 50",46149,India,9.5
+Hortus Gerardo,"Calle Mayor, 76",41844,Vegetariana,2.8
+Terraza Carmen,"Calle Cervantes, 53",28980,Mediterránea,4.7
+Cantina Tomás,"Gran Vía, 131",28653,Mexicana,4.6
+Rías Rambla,"Calle Cervantes, 19",29966,Marisquería,6.4
+Sal y Retiro,"Paseo de la Alameda, 94",28025,Mediterránea,8.4
+Pinchos Retiro,"Calle del Mar, 18",46842,TAPAS,7.5
+Cañas y Carmen,"Ronda Norte, 139",41368,Tapas,9.1
+Tapería Carmen,"Plaza de España, 13",50150,Tapas,6.4
+Terraza Giralda,"Calle Mercado, 6",29355,Mediterránea,3.2
+"Bar ""Retiro""","Avenida del Puerto, 116",46320,Asador,8.5
+Jade Tomás,"Calle Colón, 44",08868,China
+Grill Marta,"Calle Colón, 39",33735,Hamburguesería,"5,0"
+Marisquería Picasso,"Calle Colón, 57",41515,Marisquería,8.4
+Taquería Rambla,"Calle Mayor, 109",28932,Mexicana,7.0
+
+Kyoto Sol,"Ronda Norte, 80",18856,Japonesa,4.2
+Masala Goya,"Calle del Mar, 21",12983,India,9.1
+Jade Mestalla,"Calle Colón, 139",46476,China,2.8
+   
+Bar Malvarrosa,"Gran Vía, 143",15217,Tapas,excelente
+Casa Sol,"Calle Mercado, 131",46324,Mexicana,6.1
+Cala Tomás,"Calle San Vicente, 142",08794,Mediterránea,8.0
+Parrilla Luna,"Ronda Norte, 62",36826,Asador
+Bar Rambla,"Ronda Norte, 61",15037,Tapas,7.8
+
+Raíces Pepe,"Avenida del Puerto, 138",33985,  ,3.6
+Raíces Paco,"Avenida de Aragón, 84",08506,VEGETARIANA,4.7
+Casa Retiro,"Calle Mayor, 69",08123,Mexicana,2.8
+Tapería Goya,"Plaza de España, 71",28173,Tapas,4.9
+Osteria Paco,"Camino Viejo, 87",30409,Italiana,5.8
+"Bar ""Turia""","Plaza de España, 135",11759,China,5.0
+Puerto Picasso,"Calle Colón, 8",15488,Marisquería,2.8
+Pizzería Ramón,"Avenida Constitución, 8",33049,Italiana,3.4
+La Lonja de Goya,"Calle Cervantes, 69",15609,Marisquería,5.8
+Grill Goya,"Calle San Vicente, 120",15725, Hamburguesería,5.7
+"BAR ""LUNA""","Camino Viejo, 138",11832,Mexicana,7.2
+Mesón Pilar,"Gran Vía, 100",29723,Española,"6,7"
+Cañas y Marta,"Calle de la Paz, 113",29274,Tapas,7.9
+Tandoori Tomás,"Avenida Constitución, 122",08224,India,7.1
+Hortus Sagrada,"Calle de la Paz, 109",33703,Vegetariana,8.5
+Bodega Gerardo,"Plaza de España, 31",11839,Española,8.5
+Taquería Goya,"Avenida del Puerto, 82",03008,Mexicana,7.4
+Leña Albufera,"Gran Vía, 47",28426,Asador,7.4
+Verde Cervantes,"Calle Cervantes, 68",08836,Vegetariana,7.2
+Da Remedios,"Avenida Constitución, 90",46819,Italiana,3.9
+Raíces Sol,"Ronda Norte, 110",29115,Vegetariana,5.7
+Raíces Giralda,"Avenida del Puerto, 14",46143,  vegetariana ,2.9
+Kyoto Luna,"Plaza Mayor, 119",08429,Japonesa
+Mar de Olivo,"Plaza de España, 97",36673,Mediterránea,6.0
+Taquería Olivo,"Calle San Vicente, 146",11690,Mexicana,4.5
+Mesón Rambla,"Avenida Constitución, 145",15297,Española,ocho
+Izakaya Pilar,"Calle Mayor, 12",03457,Japonesa,3.3
+Smash Retiro,"Calle Mayor, 128",18165,Hamburguesería,5.5
+Rías Sol,"Calle Cervantes, 56",12797,Marisquería,9.0
+Masala Pepe,"Calle del Mar, 43",28583,India,5.6
+Brotes de Remedios,"Calle Mercado, 81",08357,Vegetariana,3.3
+Marisquería Pilar,"Plaza Mayor, 105",46743,Marisquería,4.2
+Dragón Gerardo,"Avenida Constitución, 28",33173,China,9.5
+Kyoto Malvarrosa,"Calle Colón, 30",15802,Japonesa,7.2
+Brotes de Pilar,"Avenida de Aragón, 147",28561,Vegetariana,7.3
+Leña Malvarrosa,"Paseo de la Alameda, 43",29960,Asador,"2,7"
+Taj Sagrada,"Plaza Mayor, 109",46278,India,3.9
+Taquería Rambla,"Plaza de España, 104",00000,Mexicana,6.9
+Bambú Picasso,"Calle San Vicente, 112",08080,China,9.2
+
+Curry Gerardo ,"Plaza de España, 141",28273,India,7.0
+Tandoori Marta,"Ronda Norte, 48",03490,India,6.2
+"Bar ""Marta""","Calle Colón, 126",15944,China,9.3
+Hortus Picasso,"Plaza de España, 10",46014,Vegetariana,6.2
+Mesón Aurelio,"Gran Vía, 16",48384,Española,8.3
+Brotes de Ramón,"Calle de la Paz, 128",48164,  vegetariana ,8.9
+Patty Retiro,"Calle Colón, 10",03360,Hamburguesería,8.8
+Cantina Ramón,"Calle San Vicente, 68",03893,Mexicana,3.9
+Brotes de Rambla,"Avenida del Puerto, 24",08085,Vegetariana,3.8
+Asador Malvarrosa,"Calle Mercado, 30",28858,Asador,2.6
+Jade Albufera,"Calle de la Paz, 39",18135,China,4.9
+Taberna Alameda,"Avenida del Puerto, 23",3420,Española,5.2
+Cala Paco,"Calle Mercado, 91",28257,Mediterránea,6.7
+Taquería Lola,"Camino Viejo, 45",46213,Mexicana,3.7
+Gran Muralla Retiro,"Calle San Vicente, 97",8209,China,8.7
+"Bar ""Marta""","Calle Colón, 146",03765,Japonesa,7.0
+Masala Carmen,"Avenida de Aragón, 64",28811,India,4.2
+Brotes de Paco,"Calle de la Paz, 86",15760,Vegetariana,8.0
+La Lonja de Lola,"Ronda Norte, 50",46613,Marisquería,8.8
+Gran Muralla Lola,"Calle San Vicente, 22",28421,China,6.2
+Bar Turia,"Avenida de Aragón, 9",28O01,Tapas,4.8
+Mar de Carmen,"Calle Mercado, 29",46872,Mediterránea,7.5.1
+Trattoria Luna,"Calle Cervantes, 90",50566,Italiana,7.1
+Pinchos Retiro,"Ronda Norte, 126",46534,Tapas,8.2
+Gran Muralla Goya ,"Plaza Mayor, 49",33415,China,8.8
+Tandoori Mestalla,"Calle Cervantes, 57",36316,India,9.3
+"Bar ""Pepe""","Plaza de España, 68",30559,Italiana,4.4
+Puerto Marta,"Calle Cervantes, 8",03739,Marisquería,7.7
+Trattoria Sol,"Calle de la Paz, 87",46067,ITALIANA,6.6
+La Lonja de Tomás,"Avenida del Puerto, 64",03410,Marisquería,6.3
+Sushi Aurelio,"Plaza Mayor, 98",3102,Japonesa,5.2
+"Bar ""Remedios""","Calle de la Paz, 99",29388,India,3.6
+da remedios,"Avenida Constitución, 90",46819,Italiana,2.9
+Asador Marta,"Calle San Vicente, 6",18877,Asador,5.7
+Taquería Goya,"Calle Mayor, 30",50707,Mexicana,4.1
+Marisquería Pepe,"Paseo de la Alameda, 123",28770,Marisquería,5.9
+izakaya gerardo,"Calle del Mar, 33",15173,Japonesa,6.9
+Ramen Giralda,"Calle Cervantes, 145",46285,Japonesa,5.2
+Puerto Retiro,"Gran Vía, 24",8589,Marisquería,9.6
+Mesón Olivo,"Avenida de Aragón, 10",18119,Española,6.3
+Rías Retiro,"Avenida del Puerto, 98",33788,Marisquería,9.5
+Cantina Gerardo,"Camino Viejo, 92",48682,Mexicana,7.4
+Hortus Retiro,"Avenida de Aragón, 109",03250,Vegetariana,9.2
+Trattoria Goya,"Paseo de la Alameda, 82",30332,Italiana,8.3
+Asador Mestalla,"Calle de la Paz, 10",8297,Asador,5.2
+Puerto Tomás,"Plaza Mayor, 88",46503,Marisquería,5.9
+La Hacienda de Gerardo,"Calle del Mar, 32",03754,Mexicana,4.1
+Osteria Albufera,"Plaza de España, 10",08748,Italiana,4.5
+Tapería Goya,"Calle Colón, 40",18664,Tapas,2.7
+Pinchos Olivo,"Avenida del Puerto, 61",33883,Tapas,4.2
+Jade Olivo,"Calle Mercado, 129",29748,China,9.5
+Cañas y Paco,"Avenida del Puerto, 96",28439,Tapas,8.3
+Asador Olivo,"Ronda Norte, 2",29725,Asador,3.6
+Dragón Giralda,"Calle de la Paz, 62",48589,China,7.3
+Parrilla Sol,"Camino Viejo, 80",99000,Asador,3.9
+Terraza Turia,"Gran Vía, 74",28839,Mediterránea,6.1
+Bambú Marta,"Gran Vía, 65",36426, China,8.8
+Tapería Carmen,"Paseo de la Alameda, 99",46242,Tapas,3.3
+Smash Retiro,"Avenida del Puerto, 68",08264,Hamburguesería,7.0
+Smash Goya,"Ronda Norte, 44",28791,  hamburguesería ,6.4
+
+La Hacienda de Albufera,"Gran Vía, 47",28898,Mexicana,5.3
+Taquería Marta,"Calle San Vicente, 18",15597,Mexicana,9.6
+Mesón Cervantes,"Calle del Mar, 37",46931,española,5.5
+cala paco,"Calle Mercado, 91",28257,Mediterránea,6.2
+Sushi Gerardo,"Calle Mercado, 26",41288,Japonesa,8.6
+dragón giralda,"Calle de la Paz, 62",48589,China,3.3

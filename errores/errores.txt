@@ -1,0 +1,56 @@
+Línea 5 | E05 | Puntuación fuera de rango: "11.5" | Bambú Giralda,"Plaza de España, 88",46571,China,11.5
+Línea 8 | E03 | Código postal inválido: "99000" | La Lonja de Luna,"Avenida de Aragón, 108",99000,Marisquería,9.7
+Línea 9 | E02 | El nombre está vacío |    ,"Paseo de la Alameda, 13",11909,Hamburguesería,7.4
+Línea 12 | E06 | El tipo de cocina está vacío | Mar de Aurelio,"Avenida de Aragón, 3",46154,,7.3
+Línea 15 | E04 | La puntuación no es un número: "7.5.1" | Brotes de Rambla,"Avenida del Puerto, 75",29469,Vegetariana,7.5.1
+Línea 17 | E02 | El nombre está vacío | ,"Avenida Constitución, 95",28200,Tapas,8.0
+Línea 20 | E03 | Código postal inválido: "28O01" | Gran Muralla Pepe,"Avenida Constitución, 35",28O01,China,6.0
+Línea 50 | E04 | La puntuación no es un número: "N/A" | Sal y Goya,"Calle del Mar, 134",48815,Mediterránea,N/A
+Línea 54 | E03 | Código postal inválido: "99000" | Sushi Ramón,"Camino Viejo, 86",99000,Japonesa,4.8
+Línea 61 | E02 | El nombre está vacío | ,"Plaza de España, 23",30797,China,4.8
+Línea 65 | E05 | Puntuación fuera de rango: "100" | Jade Cervantes,"Avenida de Aragón, 60",29996,China,100
+Línea 67 | E06 | El tipo de cocina está vacío | Parrilla Tomás,"Avenida Constitución, 140",11215,  ,5.6
+Línea 85 | E01 | La fila no tiene 5 campos (tiene 6) | Mesón Alameda,"Avenida Constitución, 140",46308,Española,4.1,extra
+Línea 86 | E02 | El nombre está vacío | ,"Calle Mercado, 40",29150,China,7.7
+Línea 95 | E03 | Código postal inválido: "ABCDE" | Asador Cervantes,"Calle San Vicente, 71",ABCDE,Asador,3.1
+Línea 108 | E03 | Código postal inválido: "53001" | Casa Marta,"Calle Colón, 17",53001,Mexicana,2.6
+Línea 120 | E07 | Restaurante duplicado: "Taberna Rambla" en "Plaza Mayor, 51" | Taberna Rambla ,"Plaza Mayor, 51",50281,Española,7.1
+Línea 143 | E05 | Puntuación fuera de rango: "-1" | Rías Picasso,"Calle Mercado, 67",08725,Marisquería,-1
+Línea 144 | E03 | Código postal inválido: "99000" | Cañas y Carmen,"Calle Cervantes, 68",99000,Tapas,8.9
+Línea 152 | E07 | Restaurante duplicado: "da malvarrosa" en "Avenida de Aragón, 116" | da malvarrosa,"Avenida de Aragón, 116",08991,Italiana,9.7
+Línea 157 | E02 | El nombre está vacío |    ,"Calle Mayor, 74",28816,Vegetariana,3.4
+Línea 158 | E05 | Puntuación fuera de rango: "100" | La Hacienda de Giralda,"Paseo de la Alameda, 53",29164,Mexicana,100
+Línea 171 | E04 | La puntuación no es un número: "" | Cañas y Alameda,"Calle Mercado, 16",29895,Tapas,
+Línea 172 | E03 | Código postal inválido: "99000" | Smash Turia,"Calle del Mar, 104",99000,Hamburguesería,8.1
+Línea 176 | E05 | Puntuación fuera de rango: "100" | Cantina Gerardo,"Plaza Mayor, 3",28040,Mexicana,100
+Línea 183 | E01 | La fila no tiene 5 campos (tiene 6) | Da Picasso,"Ronda Norte, 108",46123,Italiana,7.6,extra
+Línea 192 | E06 | El tipo de cocina está vacío | Bodega Picasso,"Avenida Constitución, 115",11712,,8.1
+Línea 195 | E02 | El nombre está vacío |    ,"Calle Cervantes, 43",33202,Asador,8.0
+Línea 208 | E05 | Puntuación fuera de rango: "11.5" | Rías Marta,"Calle San Vicente, 139",11603,Marisquería,11.5
+Línea 209 | E01 | La fila no tiene 5 campos (tiene 6) | Verde Pilar,"Calle San Vicente, 119",18056,Vegetariana,8.5,extra
+Línea 214 | E07 | Restaurante duplicado: "Taberna Picasso" en "Avenida de Aragón, 91" | Taberna Picasso ,"Avenida de Aragón, 91",30142,Española,7.7
+Línea 218 | E06 | El tipo de cocina está vacío | Taberna Aurelio,"Avenida Constitución, 19",30075,,9.5
+Línea 233 | E01 | La fila no tiene 5 campos (tiene 4) | Casa Rambla,"Calle Colón, 100",18865,Mexicana
+Línea 240 | E05 | Puntuación fuera de rango: "-1" | La Lonja de Olivo,"Calle Mayor, 46",11832,Marisquería,-1
+Línea 250 | E04 | La puntuación no es un número: "ocho" | Brasa Retiro,"Calle del Mar, 39",12186,Asador,ocho
+Línea 253 | E06 | El tipo de cocina está vacío | Taberna Giralda,"Calle Mayor, 19",46300,  ,5.2
+Línea 257 | E01 | La fila no tiene 5 campos (tiene 6) | Asador Turia,"Gran Vía, 119",11747,Asador,9.1,extra
+Línea 286 | E07 | Restaurante duplicado: "Grill Lola" en "Avenida de Aragón, 143" | Grill Lola ,"Avenida de Aragón, 143",36749,Hamburguesería,8.6
+Línea 293 | E07 | Restaurante duplicado: "TAJ LOLA" en "Avenida del Puerto, 50" | TAJ LOLA,"Avenida del Puerto, 50",46149,India,9.5
+Línea 304 | E01 | La fila no tiene 5 campos (tiene 4) | Jade Tomás,"Calle Colón, 44",08868,China
+Línea 313 | E04 | La puntuación no es un número: "excelente" | Bar Malvarrosa,"Gran Vía, 143",15217,Tapas,excelente
+Línea 316 | E01 | La fila no tiene 5 campos (tiene 4) | Parrilla Luna,"Ronda Norte, 62",36826,Asador
+Línea 319 | E06 | El tipo de cocina está vacío | Raíces Pepe,"Avenida del Puerto, 138",33985,  ,3.6
+Línea 329 | E07 | Restaurante duplicado: "BAR "LUNA"" en "Camino Viejo, 138" | "BAR ""LUNA""","Camino Viejo, 138",11832,Mexicana,7.2
+Línea 341 | E01 | La fila no tiene 5 campos (tiene 4) | Kyoto Luna,"Plaza Mayor, 119",08429,Japonesa
+Línea 344 | E04 | La puntuación no es un número: "ocho" | Mesón Rambla,"Avenida Constitución, 145",15297,Española,ocho
+Línea 356 | E03 | Código postal inválido: "00000" | Taquería Rambla,"Plaza de España, 104",00000,Mexicana,6.9
+Línea 359 | E07 | Restaurante duplicado: "Curry Gerardo" en "Plaza de España, 141" | Curry Gerardo ,"Plaza de España, 141",28273,India,7.0
+Línea 379 | E03 | Código postal inválido: "28O01" | Bar Turia,"Avenida de Aragón, 9",28O01,Tapas,4.8
+Línea 380 | E04 | La puntuación no es un número: "7.5.1" | Mar de Carmen,"Calle Mercado, 29",46872,Mediterránea,7.5.1
+Línea 383 | E07 | Restaurante duplicado: "Gran Muralla Goya" en "Plaza Mayor, 49" | Gran Muralla Goya ,"Plaza Mayor, 49",33415,China,8.8
+Línea 391 | E07 | Restaurante duplicado: "da remedios" en "Avenida Constitución, 90" | da remedios,"Avenida Constitución, 90",46819,Italiana,2.9
+Línea 395 | E07 | Restaurante duplicado: "izakaya gerardo" en "Calle del Mar, 33" | izakaya gerardo,"Calle del Mar, 33",15173,Japonesa,6.9
+Línea 413 | E03 | Código postal inválido: "99000" | Parrilla Sol,"Camino Viejo, 80",99000,Asador,3.9
+Línea 423 | E07 | Restaurante duplicado: "cala paco" en "Calle Mercado, 91" | cala paco,"Calle Mercado, 91",28257,Mediterránea,6.2
+Línea 425 | E07 | Restaurante duplicado: "dragón giralda" en "Calle de la Paz, 62" | dragón giralda,"Calle de la Paz, 62",48589,China,3.3

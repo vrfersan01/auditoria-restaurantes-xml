@@ -1,0 +1,2495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<restaurantes>
+    <restaurante id="1">
+        <nombre>Osteria Picasso</nombre>
+        <direccion>Calle San Vicente, 58</direccion>
+        <codigoPostal>12637</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>6.6</puntuacion>
+    </restaurante>
+    <restaurante id="2">
+        <nombre>La Lonja de Sagrada</nombre>
+        <direccion>Plaza Mayor, 62</direccion>
+        <codigoPostal>46629</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>3.1</puntuacion>
+    </restaurante>
+    <restaurante id="3">
+        <nombre>Bar "Alameda"</nombre>
+        <direccion>Avenida Constitución, 81</direccion>
+        <codigoPostal>08407</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>4.3</puntuacion>
+    </restaurante>
+    <restaurante id="4">
+        <nombre>Curry Paco</nombre>
+        <direccion>Calle Cervantes, 7</direccion>
+        <codigoPostal>50373</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>5.9</puntuacion>
+    </restaurante>
+    <restaurante id="5">
+        <nombre>Da Albufera</nombre>
+        <direccion>Calle San Vicente, 109</direccion>
+        <codigoPostal>11822</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>8.0</puntuacion>
+    </restaurante>
+    <restaurante id="6">
+        <nombre>Cañas y Goya</nombre>
+        <direccion>Calle de la Paz, 32</direccion>
+        <codigoPostal>15691</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>5.9</puntuacion>
+    </restaurante>
+    <restaurante id="7">
+        <nombre>Smash Turia</nombre>
+        <direccion>Calle Cervantes, 141</direccion>
+        <codigoPostal>11716</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>6.0</puntuacion>
+    </restaurante>
+    <restaurante id="8">
+        <nombre>La Lonja de Rambla</nombre>
+        <direccion>Avenida Constitución, 93</direccion>
+        <codigoPostal>08267</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>7.6</puntuacion>
+    </restaurante>
+    <restaurante id="9">
+        <nombre>Da Malvarrosa</nombre>
+        <direccion>Avenida de Aragón, 116</direccion>
+        <codigoPostal>08991</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>5.6</puntuacion>
+    </restaurante>
+    <restaurante id="10">
+        <nombre>Sal y Cervantes</nombre>
+        <direccion>Plaza de España, 1</direccion>
+        <codigoPostal>15595</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>6.5</puntuacion>
+    </restaurante>
+    <restaurante id="11">
+        <nombre>Pizzería Remedios</nombre>
+        <direccion>Avenida del Puerto, 140</direccion>
+        <codigoPostal>03685</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>8.0</puntuacion>
+    </restaurante>
+    <restaurante id="12">
+        <nombre>Ramen Ramón</nombre>
+        <direccion>Calle Colón, 35</direccion>
+        <codigoPostal>36314</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>6.2</puntuacion>
+    </restaurante>
+    <restaurante id="13">
+        <nombre>Sal y Picasso</nombre>
+        <direccion>Camino Viejo, 4</direccion>
+        <codigoPostal>28399</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>9.0</puntuacion>
+    </restaurante>
+    <restaurante id="14">
+        <nombre>Bodega Retiro</nombre>
+        <direccion>Calle Mayor, 7</direccion>
+        <codigoPostal>11488</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>4.9</puntuacion>
+    </restaurante>
+    <restaurante id="15">
+        <nombre>Curry Tomás</nombre>
+        <direccion>Avenida Constitución, 120</direccion>
+        <codigoPostal>36634</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>8.4</puntuacion>
+    </restaurante>
+    <restaurante id="16">
+        <nombre>Izakaya Olivo</nombre>
+        <direccion>Plaza Mayor, 60</direccion>
+        <codigoPostal>46561</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>5.4</puntuacion>
+    </restaurante>
+    <restaurante id="17">
+        <nombre>Cantina Marta</nombre>
+        <direccion>Avenida del Puerto, 116</direccion>
+        <codigoPostal>08496</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>7.7</puntuacion>
+    </restaurante>
+    <restaurante id="18">
+        <nombre>Mesón Retiro</nombre>
+        <direccion>Paseo de la Alameda, 42</direccion>
+        <codigoPostal>08400</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>4.5</puntuacion>
+    </restaurante>
+    <restaurante id="19">
+        <nombre>Patty Ramón</nombre>
+        <direccion>Calle Colón, 89</direccion>
+        <codigoPostal>08270</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>5.9</puntuacion>
+    </restaurante>
+    <restaurante id="20">
+        <nombre>Terraza Cervantes</nombre>
+        <direccion>Avenida Constitución, 114</direccion>
+        <codigoPostal>28540</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>8.3</puntuacion>
+    </restaurante>
+    <restaurante id="21">
+        <nombre>Tandoori Aurelio</nombre>
+        <direccion>Plaza de España, 117</direccion>
+        <codigoPostal>29418</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>6.5</puntuacion>
+    </restaurante>
+    <restaurante id="22">
+        <nombre>Brasa Pepe</nombre>
+        <direccion>Calle Colón, 91</direccion>
+        <codigoPostal>18704</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>6.7</puntuacion>
+    </restaurante>
+    <restaurante id="23">
+        <nombre>Grill Lola</nombre>
+        <direccion>Avenida de Aragón, 143</direccion>
+        <codigoPostal>36749</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>4.1</puntuacion>
+    </restaurante>
+    <restaurante id="24">
+        <nombre>Masala Alameda</nombre>
+        <direccion>Calle San Vicente, 68</direccion>
+        <codigoPostal>28978</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>5.7</puntuacion>
+    </restaurante>
+    <restaurante id="25">
+        <nombre>Trattoria Sagrada</nombre>
+        <direccion>Calle Colón, 28</direccion>
+        <codigoPostal>11322</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>4.5</puntuacion>
+    </restaurante>
+    <restaurante id="26">
+        <nombre>Osteria Tomás</nombre>
+        <direccion>Avenida de Aragón, 17</direccion>
+        <codigoPostal>46422</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>8.8</puntuacion>
+    </restaurante>
+    <restaurante id="27">
+        <nombre>Curry Pepe</nombre>
+        <direccion>Calle de la Paz, 6</direccion>
+        <codigoPostal>03126</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>3.2</puntuacion>
+    </restaurante>
+    <restaurante id="28">
+        <nombre>Smash Tomás</nombre>
+        <direccion>Avenida del Puerto, 104</direccion>
+        <codigoPostal>29623</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>4.1</puntuacion>
+    </restaurante>
+    <restaurante id="29">
+        <nombre>Brotes de Alameda</nombre>
+        <direccion>Calle del Mar, 129</direccion>
+        <codigoPostal>03399</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>4.6</puntuacion>
+    </restaurante>
+    <restaurante id="30">
+        <nombre>Dragón Giralda</nombre>
+        <direccion>Calle Mayor, 73</direccion>
+        <codigoPostal>29297</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>7.8</puntuacion>
+    </restaurante>
+    <restaurante id="31">
+        <nombre>Osteria Sagrada</nombre>
+        <direccion>Calle Mayor, 139</direccion>
+        <codigoPostal>29203</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>6.6</puntuacion>
+    </restaurante>
+    <restaurante id="32">
+        <nombre>Tapería Carmen</nombre>
+        <direccion>Calle San Vicente, 10</direccion>
+        <codigoPostal>28536</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>5.1</puntuacion>
+    </restaurante>
+    <restaurante id="33">
+        <nombre>Leña Pepe</nombre>
+        <direccion>Paseo de la Alameda, 92</direccion>
+        <codigoPostal>48394</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>5.3</puntuacion>
+    </restaurante>
+    <restaurante id="34">
+        <nombre>Sal y Sagrada</nombre>
+        <direccion>Calle Mayor, 139</direccion>
+        <codigoPostal>18407</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>9.0</puntuacion>
+    </restaurante>
+    <restaurante id="35">
+        <nombre>Bar "Turia"</nombre>
+        <direccion>Avenida Constitución, 107</direccion>
+        <codigoPostal>03982</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>4.8</puntuacion>
+    </restaurante>
+    <restaurante id="36">
+        <nombre>Asador Carmen</nombre>
+        <direccion>Avenida de Aragón, 88</direccion>
+        <codigoPostal>11773</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>7.9</puntuacion>
+    </restaurante>
+    <restaurante id="37">
+        <nombre>Casa Retiro</nombre>
+        <direccion>Avenida Constitución, 15</direccion>
+        <codigoPostal>41696</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>6.2</puntuacion>
+    </restaurante>
+    <restaurante id="38">
+        <nombre>Kyoto Malvarrosa</nombre>
+        <direccion>Calle de la Paz, 144</direccion>
+        <codigoPostal>03352</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>8.8</puntuacion>
+    </restaurante>
+    <restaurante id="39">
+        <nombre>Jade Cervantes</nombre>
+        <direccion>Avenida Constitución, 149</direccion>
+        <codigoPostal>03193</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>3.7</puntuacion>
+    </restaurante>
+    <restaurante id="40">
+        <nombre>Sushi Pilar</nombre>
+        <direccion>Avenida de Aragón, 36</direccion>
+        <codigoPostal>28926</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>2.6</puntuacion>
+    </restaurante>
+    <restaurante id="41">
+        <nombre>Bar "Luna"</nombre>
+        <direccion>Camino Viejo, 138</direccion>
+        <codigoPostal>11832</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>7.2</puntuacion>
+    </restaurante>
+    <restaurante id="42">
+        <nombre>Bar Carmen</nombre>
+        <direccion>Calle Cervantes, 139</direccion>
+        <codigoPostal>03366</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>3.5</puntuacion>
+    </restaurante>
+    <restaurante id="43">
+        <nombre>Sal y Giralda</nombre>
+        <direccion>Avenida Constitución, 109</direccion>
+        <codigoPostal>50832</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>8.1</puntuacion>
+    </restaurante>
+    <restaurante id="44">
+        <nombre>Grill Giralda</nombre>
+        <direccion>Calle Colón, 81</direccion>
+        <codigoPostal>18149</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>3.7</puntuacion>
+    </restaurante>
+    <restaurante id="45">
+        <nombre>Trattoria Sol</nombre>
+        <direccion>Calle Cervantes, 56</direccion>
+        <codigoPostal>18158</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>6.9</puntuacion>
+    </restaurante>
+    <restaurante id="46">
+        <nombre>Cantina Lola</nombre>
+        <direccion>Avenida Constitución, 28</direccion>
+        <codigoPostal>46391</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.4</puntuacion>
+    </restaurante>
+    <restaurante id="47">
+        <nombre>Tandoori Sol</nombre>
+        <direccion>Avenida Constitución, 31</direccion>
+        <codigoPostal>18532</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>4.3</puntuacion>
+    </restaurante>
+    <restaurante id="48">
+        <nombre>Brasa Carmen</nombre>
+        <direccion>Ronda Norte, 83</direccion>
+        <codigoPostal>30413</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>4.8</puntuacion>
+    </restaurante>
+    <restaurante id="49">
+        <nombre>Casa Remedios</nombre>
+        <direccion>Calle del Mar, 90</direccion>
+        <codigoPostal>48852</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>8.4</puntuacion>
+    </restaurante>
+    <restaurante id="50">
+        <nombre>Sal y Paco</nombre>
+        <direccion>Paseo de la Alameda, 111</direccion>
+        <codigoPostal>03337</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>8.6</puntuacion>
+    </restaurante>
+    <restaurante id="51">
+        <nombre>Osteria Pilar</nombre>
+        <direccion>Camino Viejo, 103</direccion>
+        <codigoPostal>46563</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>7.7</puntuacion>
+    </restaurante>
+    <restaurante id="52">
+        <nombre>Leña Marta</nombre>
+        <direccion>Calle Colón, 3</direccion>
+        <codigoPostal>03573</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>7.6</puntuacion>
+    </restaurante>
+    <restaurante id="53">
+        <nombre>Ramen Albufera</nombre>
+        <direccion>Calle Mercado, 122</direccion>
+        <codigoPostal>30347</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>2.6</puntuacion>
+    </restaurante>
+    <restaurante id="54">
+        <nombre>Taquería Alameda</nombre>
+        <direccion>Avenida de Aragón, 84</direccion>
+        <codigoPostal>46799</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.0</puntuacion>
+    </restaurante>
+    <restaurante id="55">
+        <nombre>Hortus Mestalla</nombre>
+        <direccion>Plaza de España, 143</direccion>
+        <codigoPostal>08552</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>8.1</puntuacion>
+    </restaurante>
+    <restaurante id="56">
+        <nombre>Pizzería Tomás</nombre>
+        <direccion>Plaza Mayor, 53</direccion>
+        <codigoPostal>12690</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>3.7</puntuacion>
+    </restaurante>
+    <restaurante id="57">
+        <nombre>Tandoori Albufera</nombre>
+        <direccion>Paseo de la Alameda, 28</direccion>
+        <codigoPostal>46278</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>9.4</puntuacion>
+    </restaurante>
+    <restaurante id="58">
+        <nombre>Mesón Turia</nombre>
+        <direccion>Calle de la Paz, 121</direccion>
+        <codigoPostal>29352</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>5.0</puntuacion>
+    </restaurante>
+    <restaurante id="59">
+        <nombre>La Lonja de Gerardo</nombre>
+        <direccion>Ronda Norte, 65</direccion>
+        <codigoPostal>46660</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>6.1</puntuacion>
+    </restaurante>
+    <restaurante id="60">
+        <nombre>Taberna Rambla</nombre>
+        <direccion>Plaza Mayor, 51</direccion>
+        <codigoPostal>50281</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>6.2</puntuacion>
+    </restaurante>
+    <restaurante id="61">
+        <nombre>Cañas y Pilar</nombre>
+        <direccion>Avenida del Puerto, 106</direccion>
+        <codigoPostal>46744</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>7.8</puntuacion>
+    </restaurante>
+    <restaurante id="62">
+        <nombre>Leña Goya</nombre>
+        <direccion>Ronda Norte, 126</direccion>
+        <codigoPostal>29677</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>5.0</puntuacion>
+    </restaurante>
+    <restaurante id="63">
+        <nombre>Sushi Turia</nombre>
+        <direccion>Calle Colón, 66</direccion>
+        <codigoPostal>11534</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>8.8</puntuacion>
+    </restaurante>
+    <restaurante id="64">
+        <nombre>Asador Mestalla</nombre>
+        <direccion>Calle Mayor, 119</direccion>
+        <codigoPostal>41215</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>5.6</puntuacion>
+    </restaurante>
+    <restaurante id="65">
+        <nombre>Grill Picasso</nombre>
+        <direccion>Avenida de Aragón, 126</direccion>
+        <codigoPostal>28573</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>7.5</puntuacion>
+    </restaurante>
+    <restaurante id="66">
+        <nombre>Jade Retiro</nombre>
+        <direccion>Gran Vía, 39</direccion>
+        <codigoPostal>12565</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>7.6</puntuacion>
+    </restaurante>
+    <restaurante id="67">
+        <nombre>Izakaya Paco</nombre>
+        <direccion>Avenida del Puerto, 9</direccion>
+        <codigoPostal>03809</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>4.7</puntuacion>
+    </restaurante>
+    <restaurante id="68">
+        <nombre>Izakaya Gerardo</nombre>
+        <direccion>Calle del Mar, 33</direccion>
+        <codigoPostal>15173</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>3.9</puntuacion>
+    </restaurante>
+    <restaurante id="69">
+        <nombre>Taberna Pepe</nombre>
+        <direccion>Calle del Mar, 66</direccion>
+        <codigoPostal>29775</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>2.7</puntuacion>
+    </restaurante>
+    <restaurante id="70">
+        <nombre>Grill Ramón</nombre>
+        <direccion>Calle Mercado, 52</direccion>
+        <codigoPostal>08247</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>4.1</puntuacion>
+    </restaurante>
+    <restaurante id="71">
+        <nombre>Raíces Sol</nombre>
+        <direccion>Calle Mercado, 109</direccion>
+        <codigoPostal>15877</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="72">
+        <nombre>La Hacienda de Retiro</nombre>
+        <direccion>Avenida Constitución, 24</direccion>
+        <codigoPostal>08757</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>3.9</puntuacion>
+    </restaurante>
+    <restaurante id="73">
+        <nombre>Osteria Malvarrosa</nombre>
+        <direccion>Calle Colón, 30</direccion>
+        <codigoPostal>08209</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>7.2</puntuacion>
+    </restaurante>
+    <restaurante id="74">
+        <nombre>Casa Pepe</nombre>
+        <direccion>Paseo de la Alameda, 69</direccion>
+        <codigoPostal>03757</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="75">
+        <nombre>Taberna Picasso</nombre>
+        <direccion>Avenida de Aragón, 91</direccion>
+        <codigoPostal>30142</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>3.3</puntuacion>
+    </restaurante>
+    <restaurante id="76">
+        <nombre>Izakaya Sol</nombre>
+        <direccion>Avenida del Puerto, 144</direccion>
+        <codigoPostal>29774</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>4.4</puntuacion>
+    </restaurante>
+    <restaurante id="77">
+        <nombre>Casa Picasso</nombre>
+        <direccion>Calle San Vicente, 99</direccion>
+        <codigoPostal>36983</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>5.8</puntuacion>
+    </restaurante>
+    <restaurante id="78">
+        <nombre>Verde Paco</nombre>
+        <direccion>Paseo de la Alameda, 7</direccion>
+        <codigoPostal>28402</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>3.2</puntuacion>
+    </restaurante>
+    <restaurante id="79">
+        <nombre>Smash Pepe</nombre>
+        <direccion>Plaza de España, 134</direccion>
+        <codigoPostal>28751</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>9.5</puntuacion>
+    </restaurante>
+    <restaurante id="80">
+        <nombre>Gran Muralla Pilar</nombre>
+        <direccion>Calle de la Paz, 83</direccion>
+        <codigoPostal>15708</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>4.3</puntuacion>
+    </restaurante>
+    <restaurante id="81">
+        <nombre>Bar "Remedios"</nombre>
+        <direccion>Calle Colón, 113</direccion>
+        <codigoPostal>08788</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>3.3</puntuacion>
+    </restaurante>
+    <restaurante id="82">
+        <nombre>Brotes de Goya</nombre>
+        <direccion>Avenida Constitución, 56</direccion>
+        <codigoPostal>33748</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>2.7</puntuacion>
+    </restaurante>
+    <restaurante id="83">
+        <nombre>Raíces Pilar</nombre>
+        <direccion>Ronda Norte, 69</direccion>
+        <codigoPostal>48885</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>7.9</puntuacion>
+    </restaurante>
+    <restaurante id="84">
+        <nombre>Bodega Mestalla</nombre>
+        <direccion>Calle Colón, 136</direccion>
+        <codigoPostal>28577</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="85">
+        <nombre>Taquería Turia</nombre>
+        <direccion>Camino Viejo, 29</direccion>
+        <codigoPostal>28825</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>9.7</puntuacion>
+    </restaurante>
+    <restaurante id="86">
+        <nombre>Cala Remedios</nombre>
+        <direccion>Avenida de Aragón, 44</direccion>
+        <codigoPostal>11273</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>9.2</puntuacion>
+    </restaurante>
+    <restaurante id="87">
+        <nombre>Osteria Carmen</nombre>
+        <direccion>Avenida del Puerto, 56</direccion>
+        <codigoPostal>18119</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>9.1</puntuacion>
+    </restaurante>
+    <restaurante id="88">
+        <nombre>Burger Sol</nombre>
+        <direccion>Plaza Mayor, 132</direccion>
+        <codigoPostal>46980</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>9.3</puntuacion>
+    </restaurante>
+    <restaurante id="89">
+        <nombre>Marisquería Goya</nombre>
+        <direccion>Plaza de España, 140</direccion>
+        <codigoPostal>08561</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>7.1</puntuacion>
+    </restaurante>
+    <restaurante id="90">
+        <nombre>Puerto Goya</nombre>
+        <direccion>Calle del Mar, 59</direccion>
+        <codigoPostal>18403</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>5.9</puntuacion>
+    </restaurante>
+    <restaurante id="91">
+        <nombre>Taquería Pepe</nombre>
+        <direccion>Plaza de España, 113</direccion>
+        <codigoPostal>12183</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>3.8</puntuacion>
+    </restaurante>
+    <restaurante id="92">
+        <nombre>Izakaya Picasso</nombre>
+        <direccion>Camino Viejo, 72</direccion>
+        <codigoPostal>08480</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>3.2</puntuacion>
+    </restaurante>
+    <restaurante id="93">
+        <nombre>Dragón Giralda</nombre>
+        <direccion>Calle de la Paz, 122</direccion>
+        <codigoPostal>28704</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>8.3</puntuacion>
+    </restaurante>
+    <restaurante id="94">
+        <nombre>Kyoto Turia</nombre>
+        <direccion>Calle Mayor, 98</direccion>
+        <codigoPostal>46989</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>7.6</puntuacion>
+    </restaurante>
+    <restaurante id="95">
+        <nombre>Parrilla Alameda</nombre>
+        <direccion>Calle del Mar, 22</direccion>
+        <codigoPostal>36022</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>7.2</puntuacion>
+    </restaurante>
+    <restaurante id="96">
+        <nombre>Taquería Luna</nombre>
+        <direccion>Calle Cervantes, 148</direccion>
+        <codigoPostal>36184</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.7</puntuacion>
+    </restaurante>
+    <restaurante id="97">
+        <nombre>Burger Pepe</nombre>
+        <direccion>Calle Colón, 118</direccion>
+        <codigoPostal>36100</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>4.3</puntuacion>
+    </restaurante>
+    <restaurante id="98">
+        <nombre>Raíces Mestalla</nombre>
+        <direccion>Avenida Constitución, 29</direccion>
+        <codigoPostal>46131</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>2.5</puntuacion>
+    </restaurante>
+    <restaurante id="99">
+        <nombre>Smash Paco</nombre>
+        <direccion>Avenida de Aragón, 6</direccion>
+        <codigoPostal>15624</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>4.7</puntuacion>
+    </restaurante>
+    <restaurante id="100">
+        <nombre>Kyoto Retiro</nombre>
+        <direccion>Plaza Mayor, 32</direccion>
+        <codigoPostal>28233</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>8.6</puntuacion>
+    </restaurante>
+    <restaurante id="101">
+        <nombre>Verde Luna</nombre>
+        <direccion>Plaza Mayor, 114</direccion>
+        <codigoPostal>03257</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>5.8</puntuacion>
+    </restaurante>
+    <restaurante id="102">
+        <nombre>La Lonja de Goya</nombre>
+        <direccion>Ronda Norte, 44</direccion>
+        <codigoPostal>28628</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>6.5</puntuacion>
+    </restaurante>
+    <restaurante id="103">
+        <nombre>Cantina Malvarrosa</nombre>
+        <direccion>Camino Viejo, 58</direccion>
+        <codigoPostal>29170</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>8.3</puntuacion>
+    </restaurante>
+    <restaurante id="104">
+        <nombre>Casa Paco</nombre>
+        <direccion>Camino Viejo, 54</direccion>
+        <codigoPostal>12563</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.7</puntuacion>
+    </restaurante>
+    <restaurante id="105">
+        <nombre>Patty Malvarrosa</nombre>
+        <direccion>Plaza Mayor, 63</direccion>
+        <codigoPostal>08521</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>4.7</puntuacion>
+    </restaurante>
+    <restaurante id="106">
+        <nombre>Bar Pilar</nombre>
+        <direccion>Calle Mercado, 149</direccion>
+        <codigoPostal>28456</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>9.7</puntuacion>
+    </restaurante>
+    <restaurante id="107">
+        <nombre>Parrilla Alameda</nombre>
+        <direccion>Calle Cervantes, 10</direccion>
+        <codigoPostal>12527</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>5.0</puntuacion>
+    </restaurante>
+    <restaurante id="108">
+        <nombre>Curry Remedios</nombre>
+        <direccion>Calle Cervantes, 130</direccion>
+        <codigoPostal>50852</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>9.7</puntuacion>
+    </restaurante>
+    <restaurante id="109">
+        <nombre>Sal y Pepe</nombre>
+        <direccion>Calle Mercado, 100</direccion>
+        <codigoPostal>12914</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>9.1</puntuacion>
+    </restaurante>
+    <restaurante id="110">
+        <nombre>Casa Sol</nombre>
+        <direccion>Calle Mayor, 28</direccion>
+        <codigoPostal>41221</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>3.8</puntuacion>
+    </restaurante>
+    <restaurante id="111">
+        <nombre>La Lonja de Goya</nombre>
+        <direccion>Calle Colón, 112</direccion>
+        <codigoPostal>11195</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="112">
+        <nombre>Burger Lola</nombre>
+        <direccion>Camino Viejo, 32</direccion>
+        <codigoPostal>15616</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>5.0</puntuacion>
+    </restaurante>
+    <restaurante id="113">
+        <nombre>Burger Olivo</nombre>
+        <direccion>Calle Cervantes, 1</direccion>
+        <codigoPostal>28912</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>3.0</puntuacion>
+    </restaurante>
+    <restaurante id="114">
+        <nombre>Gran Muralla Cervantes</nombre>
+        <direccion>Calle San Vicente, 28</direccion>
+        <codigoPostal>08896</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>8.3</puntuacion>
+    </restaurante>
+    <restaurante id="115">
+        <nombre>Hortus Mestalla</nombre>
+        <direccion>Plaza de España, 89</direccion>
+        <codigoPostal>41153</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>5.7</puntuacion>
+    </restaurante>
+    <restaurante id="116">
+        <nombre>Da Sagrada</nombre>
+        <direccion>Plaza de España, 6</direccion>
+        <codigoPostal>15434</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>8.9</puntuacion>
+    </restaurante>
+    <restaurante id="117">
+        <nombre>Da Goya</nombre>
+        <direccion>Avenida Constitución, 90</direccion>
+        <codigoPostal>28049</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>5.5</puntuacion>
+    </restaurante>
+    <restaurante id="118">
+        <nombre>Cala Gerardo</nombre>
+        <direccion>Calle de la Paz, 109</direccion>
+        <codigoPostal>28359</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>9.4</puntuacion>
+    </restaurante>
+    <restaurante id="119">
+        <nombre>Mesón Mestalla</nombre>
+        <direccion>Calle Cervantes, 67</direccion>
+        <codigoPostal>48805</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>3.2</puntuacion>
+    </restaurante>
+    <restaurante id="120">
+        <nombre>La Hacienda de Sagrada</nombre>
+        <direccion>Plaza de España, 148</direccion>
+        <codigoPostal>12271</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.8</puntuacion>
+    </restaurante>
+    <restaurante id="121">
+        <nombre>Rías Remedios</nombre>
+        <direccion>Calle Colón, 136</direccion>
+        <codigoPostal>48260</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>2.7</puntuacion>
+    </restaurante>
+    <restaurante id="122">
+        <nombre>Taquería Aurelio</nombre>
+        <direccion>Ronda Norte, 82</direccion>
+        <codigoPostal>28677</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>5.0</puntuacion>
+    </restaurante>
+    <restaurante id="123">
+        <nombre>Parrilla Mestalla</nombre>
+        <direccion>Camino Viejo, 28</direccion>
+        <codigoPostal>50891</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>8.5</puntuacion>
+    </restaurante>
+    <restaurante id="124">
+        <nombre>Mar de Albufera</nombre>
+        <direccion>Camino Viejo, 92</direccion>
+        <codigoPostal>46779</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>5.1</puntuacion>
+    </restaurante>
+    <restaurante id="125">
+        <nombre>Pinchos Rambla</nombre>
+        <direccion>Avenida Constitución, 3</direccion>
+        <codigoPostal>50424</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>5.9</puntuacion>
+    </restaurante>
+    <restaurante id="126">
+        <nombre>Marisquería Malvarrosa</nombre>
+        <direccion>Avenida del Puerto, 30</direccion>
+        <codigoPostal>29443</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>4.4</puntuacion>
+    </restaurante>
+    <restaurante id="127">
+        <nombre>Masala Pepe</nombre>
+        <direccion>Avenida del Puerto, 20</direccion>
+        <codigoPostal>41181</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>2.9</puntuacion>
+    </restaurante>
+    <restaurante id="128">
+        <nombre>Bambú Lola</nombre>
+        <direccion>Avenida del Puerto, 75</direccion>
+        <codigoPostal>28111</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>8.9</puntuacion>
+    </restaurante>
+    <restaurante id="129">
+        <nombre>Taquería Malvarrosa</nombre>
+        <direccion>Calle San Vicente, 19</direccion>
+        <codigoPostal>36896</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>7.9</puntuacion>
+    </restaurante>
+    <restaurante id="130">
+        <nombre>Cala Paco</nombre>
+        <direccion>Calle Mayor, 74</direccion>
+        <codigoPostal>48945</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="131">
+        <nombre>Parrilla Aurelio</nombre>
+        <direccion>Calle Mercado, 80</direccion>
+        <codigoPostal>28274</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>7.2</puntuacion>
+    </restaurante>
+    <restaurante id="132">
+        <nombre>Grill Mestalla</nombre>
+        <direccion>Avenida del Puerto, 18</direccion>
+        <codigoPostal>15989</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>6.7</puntuacion>
+    </restaurante>
+    <restaurante id="133">
+        <nombre>Pinchos Pepe</nombre>
+        <direccion>Gran Vía, 120</direccion>
+        <codigoPostal>33079</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>5.1</puntuacion>
+    </restaurante>
+    <restaurante id="134">
+        <nombre>Trattoria Sol</nombre>
+        <direccion>Plaza de España, 71</direccion>
+        <codigoPostal>18225</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>3.9</puntuacion>
+    </restaurante>
+    <restaurante id="135">
+        <nombre>Tandoori Pilar</nombre>
+        <direccion>Calle San Vicente, 140</direccion>
+        <codigoPostal>46707</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>4.1</puntuacion>
+    </restaurante>
+    <restaurante id="136">
+        <nombre>Smash Rambla</nombre>
+        <direccion>Paseo de la Alameda, 44</direccion>
+        <codigoPostal>28199</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>6.5</puntuacion>
+    </restaurante>
+    <restaurante id="137">
+        <nombre>Asador Luna</nombre>
+        <direccion>Avenida Constitución, 93</direccion>
+        <codigoPostal>08193</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>8.0</puntuacion>
+    </restaurante>
+    <restaurante id="138">
+        <nombre>Bambú Ramón</nombre>
+        <direccion>Paseo de la Alameda, 74</direccion>
+        <codigoPostal>18051</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>9.7</puntuacion>
+    </restaurante>
+    <restaurante id="139">
+        <nombre>Gran Muralla Giralda</nombre>
+        <direccion>Avenida del Puerto, 79</direccion>
+        <codigoPostal>28275</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>5.8</puntuacion>
+    </restaurante>
+    <restaurante id="140">
+        <nombre>Tapería Aurelio</nombre>
+        <direccion>Avenida de Aragón, 107</direccion>
+        <codigoPostal>46491</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>4.8</puntuacion>
+    </restaurante>
+    <restaurante id="141">
+        <nombre>Taj Malvarrosa</nombre>
+        <direccion>Avenida del Puerto, 18</direccion>
+        <codigoPostal>03775</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>5.7</puntuacion>
+    </restaurante>
+    <restaurante id="142">
+        <nombre>Bar "Tomás"</nombre>
+        <direccion>Gran Vía, 8</direccion>
+        <codigoPostal>29097</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.3</puntuacion>
+    </restaurante>
+    <restaurante id="143">
+        <nombre>Patty Alameda</nombre>
+        <direccion>Calle de la Paz, 11</direccion>
+        <codigoPostal>50863</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>7.4</puntuacion>
+    </restaurante>
+    <restaurante id="144">
+        <nombre>Asador Olivo</nombre>
+        <direccion>Avenida del Puerto, 11</direccion>
+        <codigoPostal>30150</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>8.8</puntuacion>
+    </restaurante>
+    <restaurante id="145">
+        <nombre>Brotes de Lola</nombre>
+        <direccion>Calle del Mar, 32</direccion>
+        <codigoPostal>03121</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>4.3</puntuacion>
+    </restaurante>
+    <restaurante id="146">
+        <nombre>Patty Sol</nombre>
+        <direccion>Paseo de la Alameda, 51</direccion>
+        <codigoPostal>12309</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>3.8</puntuacion>
+    </restaurante>
+    <restaurante id="147">
+        <nombre>Terraza Olivo</nombre>
+        <direccion>Calle Mercado, 52</direccion>
+        <codigoPostal>46407</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="148">
+        <nombre>Gran Muralla Mestalla</nombre>
+        <direccion>Avenida Constitución, 68</direccion>
+        <codigoPostal>29732</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>4.2</puntuacion>
+    </restaurante>
+    <restaurante id="149">
+        <nombre>Pinchos Turia</nombre>
+        <direccion>Gran Vía, 69</direccion>
+        <codigoPostal>08082</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>5.9</puntuacion>
+    </restaurante>
+    <restaurante id="150">
+        <nombre>Cantina Pilar</nombre>
+        <direccion>Plaza Mayor, 117</direccion>
+        <codigoPostal>46969</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.5</puntuacion>
+    </restaurante>
+    <restaurante id="151">
+        <nombre>Pinchos Malvarrosa</nombre>
+        <direccion>Avenida del Puerto, 71</direccion>
+        <codigoPostal>15345</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>7.6</puntuacion>
+    </restaurante>
+    <restaurante id="152">
+        <nombre>Tandoori Malvarrosa</nombre>
+        <direccion>Paseo de la Alameda, 64</direccion>
+        <codigoPostal>29830</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>6.7</puntuacion>
+    </restaurante>
+    <restaurante id="153">
+        <nombre>Gran Muralla Gerardo</nombre>
+        <direccion>Avenida de Aragón, 4</direccion>
+        <codigoPostal>03933</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>3.7</puntuacion>
+    </restaurante>
+    <restaurante id="154">
+        <nombre>Curry Gerardo</nombre>
+        <direccion>Plaza de España, 141</direccion>
+        <codigoPostal>28273</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>8.4</puntuacion>
+    </restaurante>
+    <restaurante id="155">
+        <nombre>Cala Carmen</nombre>
+        <direccion>Plaza de España, 95</direccion>
+        <codigoPostal>33774</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>6.6</puntuacion>
+    </restaurante>
+    <restaurante id="156">
+        <nombre>Casa Ramón</nombre>
+        <direccion>Calle Mayor, 11</direccion>
+        <codigoPostal>29650</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>3.5</puntuacion>
+    </restaurante>
+    <restaurante id="157">
+        <nombre>Taberna Marta</nombre>
+        <direccion>Calle San Vicente, 114</direccion>
+        <codigoPostal>46204</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>8.0</puntuacion>
+    </restaurante>
+    <restaurante id="158">
+        <nombre>Puerto Goya</nombre>
+        <direccion>Calle de la Paz, 10</direccion>
+        <codigoPostal>50464</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>2.7</puntuacion>
+    </restaurante>
+    <restaurante id="159">
+        <nombre>Mar de Ramón</nombre>
+        <direccion>Calle Cervantes, 103</direccion>
+        <codigoPostal>41365</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>3.1</puntuacion>
+    </restaurante>
+    <restaurante id="160">
+        <nombre>Mesón Pepe</nombre>
+        <direccion>Calle de la Paz, 10</direccion>
+        <codigoPostal>46871</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>4.7</puntuacion>
+    </restaurante>
+    <restaurante id="161">
+        <nombre>Da Goya</nombre>
+        <direccion>Calle del Mar, 46</direccion>
+        <codigoPostal>36251</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>9.2</puntuacion>
+    </restaurante>
+    <restaurante id="162">
+        <nombre>Pizzería Olivo</nombre>
+        <direccion>Plaza de España, 39</direccion>
+        <codigoPostal>12883</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>8.4</puntuacion>
+    </restaurante>
+    <restaurante id="163">
+        <nombre>Verde Tomás</nombre>
+        <direccion>Calle Colón, 150</direccion>
+        <codigoPostal>12174</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>4.0</puntuacion>
+    </restaurante>
+    <restaurante id="164">
+        <nombre>Burger Giralda</nombre>
+        <direccion>Gran Vía, 51</direccion>
+        <codigoPostal>30063</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>8.6</puntuacion>
+    </restaurante>
+    <restaurante id="165">
+        <nombre>Verde Picasso</nombre>
+        <direccion>Calle del Mar, 143</direccion>
+        <codigoPostal>28139</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>8.4</puntuacion>
+    </restaurante>
+    <restaurante id="166">
+        <nombre>Marisquería Pilar</nombre>
+        <direccion>Calle Mayor, 104</direccion>
+        <codigoPostal>30844</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>5.0</puntuacion>
+    </restaurante>
+    <restaurante id="167">
+        <nombre>Masala Marta</nombre>
+        <direccion>Calle de la Paz, 85</direccion>
+        <codigoPostal>28405</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>6.1</puntuacion>
+    </restaurante>
+    <restaurante id="168">
+        <nombre>Grill Tomás</nombre>
+        <direccion>Gran Vía, 66</direccion>
+        <codigoPostal>18743</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>3.2</puntuacion>
+    </restaurante>
+    <restaurante id="169">
+        <nombre>Tandoori Cervantes</nombre>
+        <direccion>Calle Colón, 97</direccion>
+        <codigoPostal>03230</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>8.4</puntuacion>
+    </restaurante>
+    <restaurante id="170">
+        <nombre>Cañas y Luna</nombre>
+        <direccion>Calle Colón, 147</direccion>
+        <codigoPostal>46675</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>8.8</puntuacion>
+    </restaurante>
+    <restaurante id="171">
+        <nombre>Sushi Picasso</nombre>
+        <direccion>Paseo de la Alameda, 80</direccion>
+        <codigoPostal>28647</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>3.6</puntuacion>
+    </restaurante>
+    <restaurante id="172">
+        <nombre>Pinchos Paco</nombre>
+        <direccion>Calle de la Paz, 120</direccion>
+        <codigoPostal>46804</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>8.9</puntuacion>
+    </restaurante>
+    <restaurante id="173">
+        <nombre>Cantina Giralda</nombre>
+        <direccion>Ronda Norte, 46</direccion>
+        <codigoPostal>33606</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="174">
+        <nombre>Cañas y Giralda</nombre>
+        <direccion>Avenida Constitución, 135</direccion>
+        <codigoPostal>28938</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>5.9</puntuacion>
+    </restaurante>
+    <restaurante id="175">
+        <nombre>Tapería Retiro</nombre>
+        <direccion>Calle San Vicente, 104</direccion>
+        <codigoPostal>28180</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>3.2</puntuacion>
+    </restaurante>
+    <restaurante id="176">
+        <nombre>Smash Luna</nombre>
+        <direccion>Avenida del Puerto, 6</direccion>
+        <codigoPostal>08132</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>4.1</puntuacion>
+    </restaurante>
+    <restaurante id="177">
+        <nombre>Mar de Mestalla</nombre>
+        <direccion>Gran Vía, 67</direccion>
+        <codigoPostal>41130</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>6.1</puntuacion>
+    </restaurante>
+    <restaurante id="178">
+        <nombre>Bar "Aurelio"</nombre>
+        <direccion>Calle del Mar, 31</direccion>
+        <codigoPostal>46749</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>7.6</puntuacion>
+    </restaurante>
+    <restaurante id="179">
+        <nombre>Pizzería Sagrada</nombre>
+        <direccion>Avenida de Aragón, 58</direccion>
+        <codigoPostal>41646</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="180">
+        <nombre>Terraza Turia</nombre>
+        <direccion>Calle Mercado, 140</direccion>
+        <codigoPostal>46791</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>3.3</puntuacion>
+    </restaurante>
+    <restaurante id="181">
+        <nombre>Taj Lola</nombre>
+        <direccion>Avenida del Puerto, 50</direccion>
+        <codigoPostal>46149</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>3.8</puntuacion>
+    </restaurante>
+    <restaurante id="182">
+        <nombre>Mesón Lola</nombre>
+        <direccion>Calle Colón, 1</direccion>
+        <codigoPostal>50736</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>3.4</puntuacion>
+    </restaurante>
+    <restaurante id="183">
+        <nombre>Taj Mestalla</nombre>
+        <direccion>Calle San Vicente, 131</direccion>
+        <codigoPostal>08296</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>3.3</puntuacion>
+    </restaurante>
+    <restaurante id="184">
+        <nombre>Mesón Rambla</nombre>
+        <direccion>Camino Viejo, 17</direccion>
+        <codigoPostal>41384</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>8.3</puntuacion>
+    </restaurante>
+    <restaurante id="185">
+        <nombre>Tapería Giralda</nombre>
+        <direccion>Calle Colón, 56</direccion>
+        <codigoPostal>11908</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>7.4</puntuacion>
+    </restaurante>
+    <restaurante id="186">
+        <nombre>Sal y Goya</nombre>
+        <direccion>Plaza Mayor, 125</direccion>
+        <codigoPostal>33048</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>4.6</puntuacion>
+    </restaurante>
+    <restaurante id="187">
+        <nombre>Bodega Pilar</nombre>
+        <direccion>Calle Cervantes, 100</direccion>
+        <codigoPostal>11705</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>4.9</puntuacion>
+    </restaurante>
+    <restaurante id="188">
+        <nombre>Brasa Gerardo</nombre>
+        <direccion>Plaza Mayor, 111</direccion>
+        <codigoPostal>03855</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>9.1</puntuacion>
+    </restaurante>
+    <restaurante id="189">
+        <nombre>Brasa Mestalla</nombre>
+        <direccion>Avenida Constitución, 80</direccion>
+        <codigoPostal>03750</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>7.1</puntuacion>
+    </restaurante>
+    <restaurante id="190">
+        <nombre>Mar de Marta</nombre>
+        <direccion>Plaza Mayor, 23</direccion>
+        <codigoPostal>41628</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>4.2</puntuacion>
+    </restaurante>
+    <restaurante id="191">
+        <nombre>Tapería Alameda</nombre>
+        <direccion>Calle Mayor, 73</direccion>
+        <codigoPostal>36404</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="192">
+        <nombre>Verde Albufera</nombre>
+        <direccion>Ronda Norte, 110</direccion>
+        <codigoPostal>03713</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>4.1</puntuacion>
+    </restaurante>
+    <restaurante id="193">
+        <nombre>Trattoria Mestalla</nombre>
+        <direccion>Camino Viejo, 73</direccion>
+        <codigoPostal>03294</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>5.4</puntuacion>
+    </restaurante>
+    <restaurante id="194">
+        <nombre>Rías Rambla</nombre>
+        <direccion>Calle de la Paz, 118</direccion>
+        <codigoPostal>08028</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>4.8</puntuacion>
+    </restaurante>
+    <restaurante id="195">
+        <nombre>Grill Paco</nombre>
+        <direccion>Camino Viejo, 2</direccion>
+        <codigoPostal>30348</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>5.3</puntuacion>
+    </restaurante>
+    <restaurante id="196">
+        <nombre>La Lonja de Sol</nombre>
+        <direccion>Calle Cervantes, 140</direccion>
+        <codigoPostal>46512</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>6.6</puntuacion>
+    </restaurante>
+    <restaurante id="197">
+        <nombre>Sushi Alameda</nombre>
+        <direccion>Calle de la Paz, 147</direccion>
+        <codigoPostal>48176</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>8.4</puntuacion>
+    </restaurante>
+    <restaurante id="198">
+        <nombre>Taberna Olivo</nombre>
+        <direccion>Calle de la Paz, 128</direccion>
+        <codigoPostal>46116</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>2.5</puntuacion>
+    </restaurante>
+    <restaurante id="199">
+        <nombre>Taberna Pepe</nombre>
+        <direccion>Calle Mercado, 38</direccion>
+        <codigoPostal>12534</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>4.4</puntuacion>
+    </restaurante>
+    <restaurante id="200">
+        <nombre>Kyoto Picasso</nombre>
+        <direccion>Camino Viejo, 40</direccion>
+        <codigoPostal>03876</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>4.4</puntuacion>
+    </restaurante>
+    <restaurante id="201">
+        <nombre>Da Sagrada</nombre>
+        <direccion>Calle Mercado, 99</direccion>
+        <codigoPostal>03216</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>3.7</puntuacion>
+    </restaurante>
+    <restaurante id="202">
+        <nombre>Taquería Olivo</nombre>
+        <direccion>Plaza Mayor, 115</direccion>
+        <codigoPostal>12163</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>3.1</puntuacion>
+    </restaurante>
+    <restaurante id="203">
+        <nombre>Osteria Aurelio</nombre>
+        <direccion>Calle Cervantes, 77</direccion>
+        <codigoPostal>15658</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>8.3</puntuacion>
+    </restaurante>
+    <restaurante id="204">
+        <nombre>Parrilla Cervantes</nombre>
+        <direccion>Calle del Mar, 45</direccion>
+        <codigoPostal>46545</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>9.2</puntuacion>
+    </restaurante>
+    <restaurante id="205">
+        <nombre>Marisquería Rambla</nombre>
+        <direccion>Calle Colón, 19</direccion>
+        <codigoPostal>28747</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>5.7</puntuacion>
+    </restaurante>
+    <restaurante id="206">
+        <nombre>Mar de Albufera</nombre>
+        <direccion>Calle Colón, 120</direccion>
+        <codigoPostal>46226</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>6.3</puntuacion>
+    </restaurante>
+    <restaurante id="207">
+        <nombre>Pizzería Albufera</nombre>
+        <direccion>Avenida Constitución, 24</direccion>
+        <codigoPostal>50681</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>2.7</puntuacion>
+    </restaurante>
+    <restaurante id="208">
+        <nombre>Taj Tomás</nombre>
+        <direccion>Ronda Norte, 127</direccion>
+        <codigoPostal>36513</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>3.9</puntuacion>
+    </restaurante>
+    <restaurante id="209">
+        <nombre>Da Malvarrosa</nombre>
+        <direccion>Calle Cervantes, 84</direccion>
+        <codigoPostal>28441</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>8.8</puntuacion>
+    </restaurante>
+    <restaurante id="210">
+        <nombre>Curry Marta</nombre>
+        <direccion>Calle Mercado, 93</direccion>
+        <codigoPostal>18292</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>4.9</puntuacion>
+    </restaurante>
+    <restaurante id="211">
+        <nombre>Casa Cervantes</nombre>
+        <direccion>Ronda Norte, 30</direccion>
+        <codigoPostal>03557</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>3.4</puntuacion>
+    </restaurante>
+    <restaurante id="212">
+        <nombre>Casa Aurelio</nombre>
+        <direccion>Plaza de España, 96</direccion>
+        <codigoPostal>48044</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>4.4</puntuacion>
+    </restaurante>
+    <restaurante id="213">
+        <nombre>Rías Retiro</nombre>
+        <direccion>Calle Mercado, 17</direccion>
+        <codigoPostal>46073</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>3.0</puntuacion>
+    </restaurante>
+    <restaurante id="214">
+        <nombre>Rías Malvarrosa</nombre>
+        <direccion>Calle Cervantes, 68</direccion>
+        <codigoPostal>03388</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>3.0</puntuacion>
+    </restaurante>
+    <restaurante id="215">
+        <nombre>Osteria Goya</nombre>
+        <direccion>Calle de la Paz, 35</direccion>
+        <codigoPostal>46051</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>7.4</puntuacion>
+    </restaurante>
+    <restaurante id="216">
+        <nombre>Jade Albufera</nombre>
+        <direccion>Avenida del Puerto, 43</direccion>
+        <codigoPostal>46564</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>7.2</puntuacion>
+    </restaurante>
+    <restaurante id="217">
+        <nombre>Marisquería Pilar</nombre>
+        <direccion>Ronda Norte, 64</direccion>
+        <codigoPostal>46809</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>4.7</puntuacion>
+    </restaurante>
+    <restaurante id="218">
+        <nombre>Casa Retiro</nombre>
+        <direccion>Camino Viejo, 145</direccion>
+        <codigoPostal>15580</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.8</puntuacion>
+    </restaurante>
+    <restaurante id="219">
+        <nombre>Da Picasso</nombre>
+        <direccion>Calle Cervantes, 37</direccion>
+        <codigoPostal>03473</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>4.7</puntuacion>
+    </restaurante>
+    <restaurante id="220">
+        <nombre>Tapería Tomás</nombre>
+        <direccion>Avenida del Puerto, 97</direccion>
+        <codigoPostal>50375</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>6.3</puntuacion>
+    </restaurante>
+    <restaurante id="221">
+        <nombre>Bambú Giralda</nombre>
+        <direccion>Paseo de la Alameda, 84</direccion>
+        <codigoPostal>08547</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>4.5</puntuacion>
+    </restaurante>
+    <restaurante id="222">
+        <nombre>Cala Picasso</nombre>
+        <direccion>Calle Mercado, 55</direccion>
+        <codigoPostal>03030</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>7.2</puntuacion>
+    </restaurante>
+    <restaurante id="223">
+        <nombre>Cala Aurelio</nombre>
+        <direccion>Calle del Mar, 6</direccion>
+        <codigoPostal>48600</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>7.6</puntuacion>
+    </restaurante>
+    <restaurante id="224">
+        <nombre>Kyoto Retiro</nombre>
+        <direccion>Calle San Vicente, 79</direccion>
+        <codigoPostal>08253</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>3.0</puntuacion>
+    </restaurante>
+    <restaurante id="225">
+        <nombre>Marisquería Gerardo</nombre>
+        <direccion>Calle Mayor, 126</direccion>
+        <codigoPostal>03472</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>5.8</puntuacion>
+    </restaurante>
+    <restaurante id="226">
+        <nombre>Sal y Alameda</nombre>
+        <direccion>Camino Viejo, 146</direccion>
+        <codigoPostal>46551</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>2.6</puntuacion>
+    </restaurante>
+    <restaurante id="227">
+        <nombre>Pinchos Ramón</nombre>
+        <direccion>Plaza de España, 60</direccion>
+        <codigoPostal>03047</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>9.7</puntuacion>
+    </restaurante>
+    <restaurante id="228">
+        <nombre>Terraza Olivo</nombre>
+        <direccion>Calle San Vicente, 70</direccion>
+        <codigoPostal>08841</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>6.8</puntuacion>
+    </restaurante>
+    <restaurante id="229">
+        <nombre>Jade Giralda</nombre>
+        <direccion>Calle San Vicente, 131</direccion>
+        <codigoPostal>46747</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>5.8</puntuacion>
+    </restaurante>
+    <restaurante id="230">
+        <nombre>Bambú Cervantes</nombre>
+        <direccion>Avenida Constitución, 38</direccion>
+        <codigoPostal>03715</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>5.3</puntuacion>
+    </restaurante>
+    <restaurante id="231">
+        <nombre>Tandoori Carmen</nombre>
+        <direccion>Calle Mayor, 48</direccion>
+        <codigoPostal>11856</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>4.5</puntuacion>
+    </restaurante>
+    <restaurante id="232">
+        <nombre>Gran Muralla Alameda</nombre>
+        <direccion>Calle Mayor, 41</direccion>
+        <codigoPostal>50913</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>7.1</puntuacion>
+    </restaurante>
+    <restaurante id="233">
+        <nombre>La Lonja de Turia</nombre>
+        <direccion>Avenida Constitución, 97</direccion>
+        <codigoPostal>11526</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>6.1</puntuacion>
+    </restaurante>
+    <restaurante id="234">
+        <nombre>Curry Sagrada</nombre>
+        <direccion>Avenida Constitución, 118</direccion>
+        <codigoPostal>18890</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>9.1</puntuacion>
+    </restaurante>
+    <restaurante id="235">
+        <nombre>Jade Goya</nombre>
+        <direccion>Calle Mercado, 3</direccion>
+        <codigoPostal>50369</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>9.5</puntuacion>
+    </restaurante>
+    <restaurante id="236">
+        <nombre>Taj Giralda</nombre>
+        <direccion>Calle Mercado, 126</direccion>
+        <codigoPostal>46554</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>6.5</puntuacion>
+    </restaurante>
+    <restaurante id="237">
+        <nombre>Hortus Aurelio</nombre>
+        <direccion>Calle Colón, 67</direccion>
+        <codigoPostal>03901</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>6.3</puntuacion>
+    </restaurante>
+    <restaurante id="238">
+        <nombre>Da Cervantes</nombre>
+        <direccion>Gran Vía, 105</direccion>
+        <codigoPostal>03044</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>8.5</puntuacion>
+    </restaurante>
+    <restaurante id="239">
+        <nombre>Sushi Ramón</nombre>
+        <direccion>Plaza Mayor, 44</direccion>
+        <codigoPostal>28632</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>2.9</puntuacion>
+    </restaurante>
+    <restaurante id="240">
+        <nombre>Bar "Picasso"</nombre>
+        <direccion>Avenida del Puerto, 122</direccion>
+        <codigoPostal>30479</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>6.2</puntuacion>
+    </restaurante>
+    <restaurante id="241">
+        <nombre>Jade Sol</nombre>
+        <direccion>Plaza de España, 8</direccion>
+        <codigoPostal>28963</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>8.8</puntuacion>
+    </restaurante>
+    <restaurante id="242">
+        <nombre>Puerto Mestalla</nombre>
+        <direccion>Gran Vía, 36</direccion>
+        <codigoPostal>15092</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>9.5</puntuacion>
+    </restaurante>
+    <restaurante id="243">
+        <nombre>Masala Sagrada</nombre>
+        <direccion>Avenida de Aragón, 55</direccion>
+        <codigoPostal>29881</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>3.4</puntuacion>
+    </restaurante>
+    <restaurante id="244">
+        <nombre>Gran Muralla Goya</nombre>
+        <direccion>Plaza Mayor, 49</direccion>
+        <codigoPostal>33415</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>6.0</puntuacion>
+    </restaurante>
+    <restaurante id="245">
+        <nombre>Pinchos Goya</nombre>
+        <direccion>Plaza Mayor, 51</direccion>
+        <codigoPostal>28230</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>3.2</puntuacion>
+    </restaurante>
+    <restaurante id="246">
+        <nombre>Masala Paco</nombre>
+        <direccion>Avenida Constitución, 123</direccion>
+        <codigoPostal>28232</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>3.8</puntuacion>
+    </restaurante>
+    <restaurante id="247">
+        <nombre>Hortus Gerardo</nombre>
+        <direccion>Calle Mayor, 76</direccion>
+        <codigoPostal>41844</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>2.8</puntuacion>
+    </restaurante>
+    <restaurante id="248">
+        <nombre>Terraza Carmen</nombre>
+        <direccion>Calle Cervantes, 53</direccion>
+        <codigoPostal>28980</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>4.7</puntuacion>
+    </restaurante>
+    <restaurante id="249">
+        <nombre>Cantina Tomás</nombre>
+        <direccion>Gran Vía, 131</direccion>
+        <codigoPostal>28653</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.6</puntuacion>
+    </restaurante>
+    <restaurante id="250">
+        <nombre>Rías Rambla</nombre>
+        <direccion>Calle Cervantes, 19</direccion>
+        <codigoPostal>29966</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>6.4</puntuacion>
+    </restaurante>
+    <restaurante id="251">
+        <nombre>Sal y Retiro</nombre>
+        <direccion>Paseo de la Alameda, 94</direccion>
+        <codigoPostal>28025</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>8.4</puntuacion>
+    </restaurante>
+    <restaurante id="252">
+        <nombre>Pinchos Retiro</nombre>
+        <direccion>Calle del Mar, 18</direccion>
+        <codigoPostal>46842</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>7.5</puntuacion>
+    </restaurante>
+    <restaurante id="253">
+        <nombre>Cañas y Carmen</nombre>
+        <direccion>Ronda Norte, 139</direccion>
+        <codigoPostal>41368</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>9.1</puntuacion>
+    </restaurante>
+    <restaurante id="254">
+        <nombre>Tapería Carmen</nombre>
+        <direccion>Plaza de España, 13</direccion>
+        <codigoPostal>50150</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>6.4</puntuacion>
+    </restaurante>
+    <restaurante id="255">
+        <nombre>Terraza Giralda</nombre>
+        <direccion>Calle Mercado, 6</direccion>
+        <codigoPostal>29355</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>3.2</puntuacion>
+    </restaurante>
+    <restaurante id="256">
+        <nombre>Bar "Retiro"</nombre>
+        <direccion>Avenida del Puerto, 116</direccion>
+        <codigoPostal>46320</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>8.5</puntuacion>
+    </restaurante>
+    <restaurante id="257">
+        <nombre>Grill Marta</nombre>
+        <direccion>Calle Colón, 39</direccion>
+        <codigoPostal>33735</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>5.0</puntuacion>
+    </restaurante>
+    <restaurante id="258">
+        <nombre>Marisquería Picasso</nombre>
+        <direccion>Calle Colón, 57</direccion>
+        <codigoPostal>41515</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>8.4</puntuacion>
+    </restaurante>
+    <restaurante id="259">
+        <nombre>Taquería Rambla</nombre>
+        <direccion>Calle Mayor, 109</direccion>
+        <codigoPostal>28932</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>7.0</puntuacion>
+    </restaurante>
+    <restaurante id="260">
+        <nombre>Kyoto Sol</nombre>
+        <direccion>Ronda Norte, 80</direccion>
+        <codigoPostal>18856</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>4.2</puntuacion>
+    </restaurante>
+    <restaurante id="261">
+        <nombre>Masala Goya</nombre>
+        <direccion>Calle del Mar, 21</direccion>
+        <codigoPostal>12983</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>9.1</puntuacion>
+    </restaurante>
+    <restaurante id="262">
+        <nombre>Jade Mestalla</nombre>
+        <direccion>Calle Colón, 139</direccion>
+        <codigoPostal>46476</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>2.8</puntuacion>
+    </restaurante>
+    <restaurante id="263">
+        <nombre>Casa Sol</nombre>
+        <direccion>Calle Mercado, 131</direccion>
+        <codigoPostal>46324</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>6.1</puntuacion>
+    </restaurante>
+    <restaurante id="264">
+        <nombre>Cala Tomás</nombre>
+        <direccion>Calle San Vicente, 142</direccion>
+        <codigoPostal>08794</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>8.0</puntuacion>
+    </restaurante>
+    <restaurante id="265">
+        <nombre>Bar Rambla</nombre>
+        <direccion>Ronda Norte, 61</direccion>
+        <codigoPostal>15037</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>7.8</puntuacion>
+    </restaurante>
+    <restaurante id="266">
+        <nombre>Raíces Paco</nombre>
+        <direccion>Avenida de Aragón, 84</direccion>
+        <codigoPostal>08506</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>4.7</puntuacion>
+    </restaurante>
+    <restaurante id="267">
+        <nombre>Casa Retiro</nombre>
+        <direccion>Calle Mayor, 69</direccion>
+        <codigoPostal>08123</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>2.8</puntuacion>
+    </restaurante>
+    <restaurante id="268">
+        <nombre>Tapería Goya</nombre>
+        <direccion>Plaza de España, 71</direccion>
+        <codigoPostal>28173</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>4.9</puntuacion>
+    </restaurante>
+    <restaurante id="269">
+        <nombre>Osteria Paco</nombre>
+        <direccion>Camino Viejo, 87</direccion>
+        <codigoPostal>30409</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>5.8</puntuacion>
+    </restaurante>
+    <restaurante id="270">
+        <nombre>Bar "Turia"</nombre>
+        <direccion>Plaza de España, 135</direccion>
+        <codigoPostal>11759</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>5.0</puntuacion>
+    </restaurante>
+    <restaurante id="271">
+        <nombre>Puerto Picasso</nombre>
+        <direccion>Calle Colón, 8</direccion>
+        <codigoPostal>15488</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>2.8</puntuacion>
+    </restaurante>
+    <restaurante id="272">
+        <nombre>Pizzería Ramón</nombre>
+        <direccion>Avenida Constitución, 8</direccion>
+        <codigoPostal>33049</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>3.4</puntuacion>
+    </restaurante>
+    <restaurante id="273">
+        <nombre>La Lonja de Goya</nombre>
+        <direccion>Calle Cervantes, 69</direccion>
+        <codigoPostal>15609</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>5.8</puntuacion>
+    </restaurante>
+    <restaurante id="274">
+        <nombre>Grill Goya</nombre>
+        <direccion>Calle San Vicente, 120</direccion>
+        <codigoPostal>15725</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>5.7</puntuacion>
+    </restaurante>
+    <restaurante id="275">
+        <nombre>Mesón Pilar</nombre>
+        <direccion>Gran Vía, 100</direccion>
+        <codigoPostal>29723</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>6.7</puntuacion>
+    </restaurante>
+    <restaurante id="276">
+        <nombre>Cañas y Marta</nombre>
+        <direccion>Calle de la Paz, 113</direccion>
+        <codigoPostal>29274</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>7.9</puntuacion>
+    </restaurante>
+    <restaurante id="277">
+        <nombre>Tandoori Tomás</nombre>
+        <direccion>Avenida Constitución, 122</direccion>
+        <codigoPostal>08224</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>7.1</puntuacion>
+    </restaurante>
+    <restaurante id="278">
+        <nombre>Hortus Sagrada</nombre>
+        <direccion>Calle de la Paz, 109</direccion>
+        <codigoPostal>33703</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>8.5</puntuacion>
+    </restaurante>
+    <restaurante id="279">
+        <nombre>Bodega Gerardo</nombre>
+        <direccion>Plaza de España, 31</direccion>
+        <codigoPostal>11839</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>8.5</puntuacion>
+    </restaurante>
+    <restaurante id="280">
+        <nombre>Taquería Goya</nombre>
+        <direccion>Avenida del Puerto, 82</direccion>
+        <codigoPostal>03008</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>7.4</puntuacion>
+    </restaurante>
+    <restaurante id="281">
+        <nombre>Leña Albufera</nombre>
+        <direccion>Gran Vía, 47</direccion>
+        <codigoPostal>28426</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>7.4</puntuacion>
+    </restaurante>
+    <restaurante id="282">
+        <nombre>Verde Cervantes</nombre>
+        <direccion>Calle Cervantes, 68</direccion>
+        <codigoPostal>08836</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>7.2</puntuacion>
+    </restaurante>
+    <restaurante id="283">
+        <nombre>Da Remedios</nombre>
+        <direccion>Avenida Constitución, 90</direccion>
+        <codigoPostal>46819</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>3.9</puntuacion>
+    </restaurante>
+    <restaurante id="284">
+        <nombre>Raíces Sol</nombre>
+        <direccion>Ronda Norte, 110</direccion>
+        <codigoPostal>29115</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>5.7</puntuacion>
+    </restaurante>
+    <restaurante id="285">
+        <nombre>Raíces Giralda</nombre>
+        <direccion>Avenida del Puerto, 14</direccion>
+        <codigoPostal>46143</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>2.9</puntuacion>
+    </restaurante>
+    <restaurante id="286">
+        <nombre>Mar de Olivo</nombre>
+        <direccion>Plaza de España, 97</direccion>
+        <codigoPostal>36673</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>6.0</puntuacion>
+    </restaurante>
+    <restaurante id="287">
+        <nombre>Taquería Olivo</nombre>
+        <direccion>Calle San Vicente, 146</direccion>
+        <codigoPostal>11690</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.5</puntuacion>
+    </restaurante>
+    <restaurante id="288">
+        <nombre>Izakaya Pilar</nombre>
+        <direccion>Calle Mayor, 12</direccion>
+        <codigoPostal>03457</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>3.3</puntuacion>
+    </restaurante>
+    <restaurante id="289">
+        <nombre>Smash Retiro</nombre>
+        <direccion>Calle Mayor, 128</direccion>
+        <codigoPostal>18165</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>5.5</puntuacion>
+    </restaurante>
+    <restaurante id="290">
+        <nombre>Rías Sol</nombre>
+        <direccion>Calle Cervantes, 56</direccion>
+        <codigoPostal>12797</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>9.0</puntuacion>
+    </restaurante>
+    <restaurante id="291">
+        <nombre>Masala Pepe</nombre>
+        <direccion>Calle del Mar, 43</direccion>
+        <codigoPostal>28583</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>5.6</puntuacion>
+    </restaurante>
+    <restaurante id="292">
+        <nombre>Brotes de Remedios</nombre>
+        <direccion>Calle Mercado, 81</direccion>
+        <codigoPostal>08357</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>3.3</puntuacion>
+    </restaurante>
+    <restaurante id="293">
+        <nombre>Marisquería Pilar</nombre>
+        <direccion>Plaza Mayor, 105</direccion>
+        <codigoPostal>46743</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>4.2</puntuacion>
+    </restaurante>
+    <restaurante id="294">
+        <nombre>Dragón Gerardo</nombre>
+        <direccion>Avenida Constitución, 28</direccion>
+        <codigoPostal>33173</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>9.5</puntuacion>
+    </restaurante>
+    <restaurante id="295">
+        <nombre>Kyoto Malvarrosa</nombre>
+        <direccion>Calle Colón, 30</direccion>
+        <codigoPostal>15802</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>7.2</puntuacion>
+    </restaurante>
+    <restaurante id="296">
+        <nombre>Brotes de Pilar</nombre>
+        <direccion>Avenida de Aragón, 147</direccion>
+        <codigoPostal>28561</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>7.3</puntuacion>
+    </restaurante>
+    <restaurante id="297">
+        <nombre>Leña Malvarrosa</nombre>
+        <direccion>Paseo de la Alameda, 43</direccion>
+        <codigoPostal>29960</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>2.7</puntuacion>
+    </restaurante>
+    <restaurante id="298">
+        <nombre>Taj Sagrada</nombre>
+        <direccion>Plaza Mayor, 109</direccion>
+        <codigoPostal>46278</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>3.9</puntuacion>
+    </restaurante>
+    <restaurante id="299">
+        <nombre>Bambú Picasso</nombre>
+        <direccion>Calle San Vicente, 112</direccion>
+        <codigoPostal>08080</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>9.2</puntuacion>
+    </restaurante>
+    <restaurante id="300">
+        <nombre>Tandoori Marta</nombre>
+        <direccion>Ronda Norte, 48</direccion>
+        <codigoPostal>03490</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>6.2</puntuacion>
+    </restaurante>
+    <restaurante id="301">
+        <nombre>Bar "Marta"</nombre>
+        <direccion>Calle Colón, 126</direccion>
+        <codigoPostal>15944</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>9.3</puntuacion>
+    </restaurante>
+    <restaurante id="302">
+        <nombre>Hortus Picasso</nombre>
+        <direccion>Plaza de España, 10</direccion>
+        <codigoPostal>46014</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>6.2</puntuacion>
+    </restaurante>
+    <restaurante id="303">
+        <nombre>Mesón Aurelio</nombre>
+        <direccion>Gran Vía, 16</direccion>
+        <codigoPostal>48384</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>8.3</puntuacion>
+    </restaurante>
+    <restaurante id="304">
+        <nombre>Brotes de Ramón</nombre>
+        <direccion>Calle de la Paz, 128</direccion>
+        <codigoPostal>48164</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>8.9</puntuacion>
+    </restaurante>
+    <restaurante id="305">
+        <nombre>Patty Retiro</nombre>
+        <direccion>Calle Colón, 10</direccion>
+        <codigoPostal>03360</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>8.8</puntuacion>
+    </restaurante>
+    <restaurante id="306">
+        <nombre>Cantina Ramón</nombre>
+        <direccion>Calle San Vicente, 68</direccion>
+        <codigoPostal>03893</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>3.9</puntuacion>
+    </restaurante>
+    <restaurante id="307">
+        <nombre>Brotes de Rambla</nombre>
+        <direccion>Avenida del Puerto, 24</direccion>
+        <codigoPostal>08085</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>3.8</puntuacion>
+    </restaurante>
+    <restaurante id="308">
+        <nombre>Asador Malvarrosa</nombre>
+        <direccion>Calle Mercado, 30</direccion>
+        <codigoPostal>28858</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>2.6</puntuacion>
+    </restaurante>
+    <restaurante id="309">
+        <nombre>Jade Albufera</nombre>
+        <direccion>Calle de la Paz, 39</direccion>
+        <codigoPostal>18135</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>4.9</puntuacion>
+    </restaurante>
+    <restaurante id="310">
+        <nombre>Taberna Alameda</nombre>
+        <direccion>Avenida del Puerto, 23</direccion>
+        <codigoPostal>03420</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="311">
+        <nombre>Cala Paco</nombre>
+        <direccion>Calle Mercado, 91</direccion>
+        <codigoPostal>28257</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>6.7</puntuacion>
+    </restaurante>
+    <restaurante id="312">
+        <nombre>Taquería Lola</nombre>
+        <direccion>Camino Viejo, 45</direccion>
+        <codigoPostal>46213</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>3.7</puntuacion>
+    </restaurante>
+    <restaurante id="313">
+        <nombre>Gran Muralla Retiro</nombre>
+        <direccion>Calle San Vicente, 97</direccion>
+        <codigoPostal>08209</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>8.7</puntuacion>
+    </restaurante>
+    <restaurante id="314">
+        <nombre>Bar "Marta"</nombre>
+        <direccion>Calle Colón, 146</direccion>
+        <codigoPostal>03765</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>7.0</puntuacion>
+    </restaurante>
+    <restaurante id="315">
+        <nombre>Masala Carmen</nombre>
+        <direccion>Avenida de Aragón, 64</direccion>
+        <codigoPostal>28811</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>4.2</puntuacion>
+    </restaurante>
+    <restaurante id="316">
+        <nombre>Brotes de Paco</nombre>
+        <direccion>Calle de la Paz, 86</direccion>
+        <codigoPostal>15760</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>8.0</puntuacion>
+    </restaurante>
+    <restaurante id="317">
+        <nombre>La Lonja de Lola</nombre>
+        <direccion>Ronda Norte, 50</direccion>
+        <codigoPostal>46613</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>8.8</puntuacion>
+    </restaurante>
+    <restaurante id="318">
+        <nombre>Gran Muralla Lola</nombre>
+        <direccion>Calle San Vicente, 22</direccion>
+        <codigoPostal>28421</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>6.2</puntuacion>
+    </restaurante>
+    <restaurante id="319">
+        <nombre>Trattoria Luna</nombre>
+        <direccion>Calle Cervantes, 90</direccion>
+        <codigoPostal>50566</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>7.1</puntuacion>
+    </restaurante>
+    <restaurante id="320">
+        <nombre>Pinchos Retiro</nombre>
+        <direccion>Ronda Norte, 126</direccion>
+        <codigoPostal>46534</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>8.2</puntuacion>
+    </restaurante>
+    <restaurante id="321">
+        <nombre>Tandoori Mestalla</nombre>
+        <direccion>Calle Cervantes, 57</direccion>
+        <codigoPostal>36316</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>9.3</puntuacion>
+    </restaurante>
+    <restaurante id="322">
+        <nombre>Bar "Pepe"</nombre>
+        <direccion>Plaza de España, 68</direccion>
+        <codigoPostal>30559</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>4.4</puntuacion>
+    </restaurante>
+    <restaurante id="323">
+        <nombre>Puerto Marta</nombre>
+        <direccion>Calle Cervantes, 8</direccion>
+        <codigoPostal>03739</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>7.7</puntuacion>
+    </restaurante>
+    <restaurante id="324">
+        <nombre>Trattoria Sol</nombre>
+        <direccion>Calle de la Paz, 87</direccion>
+        <codigoPostal>46067</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>6.6</puntuacion>
+    </restaurante>
+    <restaurante id="325">
+        <nombre>La Lonja de Tomás</nombre>
+        <direccion>Avenida del Puerto, 64</direccion>
+        <codigoPostal>03410</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>6.3</puntuacion>
+    </restaurante>
+    <restaurante id="326">
+        <nombre>Sushi Aurelio</nombre>
+        <direccion>Plaza Mayor, 98</direccion>
+        <codigoPostal>03102</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="327">
+        <nombre>Bar "Remedios"</nombre>
+        <direccion>Calle de la Paz, 99</direccion>
+        <codigoPostal>29388</codigoPostal>
+        <tipoCocina>India</tipoCocina>
+        <puntuacion>3.6</puntuacion>
+    </restaurante>
+    <restaurante id="328">
+        <nombre>Asador Marta</nombre>
+        <direccion>Calle San Vicente, 6</direccion>
+        <codigoPostal>18877</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>5.7</puntuacion>
+    </restaurante>
+    <restaurante id="329">
+        <nombre>Taquería Goya</nombre>
+        <direccion>Calle Mayor, 30</direccion>
+        <codigoPostal>50707</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.1</puntuacion>
+    </restaurante>
+    <restaurante id="330">
+        <nombre>Marisquería Pepe</nombre>
+        <direccion>Paseo de la Alameda, 123</direccion>
+        <codigoPostal>28770</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>5.9</puntuacion>
+    </restaurante>
+    <restaurante id="331">
+        <nombre>Ramen Giralda</nombre>
+        <direccion>Calle Cervantes, 145</direccion>
+        <codigoPostal>46285</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="332">
+        <nombre>Puerto Retiro</nombre>
+        <direccion>Gran Vía, 24</direccion>
+        <codigoPostal>08589</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>9.6</puntuacion>
+    </restaurante>
+    <restaurante id="333">
+        <nombre>Mesón Olivo</nombre>
+        <direccion>Avenida de Aragón, 10</direccion>
+        <codigoPostal>18119</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>6.3</puntuacion>
+    </restaurante>
+    <restaurante id="334">
+        <nombre>Rías Retiro</nombre>
+        <direccion>Avenida del Puerto, 98</direccion>
+        <codigoPostal>33788</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>9.5</puntuacion>
+    </restaurante>
+    <restaurante id="335">
+        <nombre>Cantina Gerardo</nombre>
+        <direccion>Camino Viejo, 92</direccion>
+        <codigoPostal>48682</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>7.4</puntuacion>
+    </restaurante>
+    <restaurante id="336">
+        <nombre>Hortus Retiro</nombre>
+        <direccion>Avenida de Aragón, 109</direccion>
+        <codigoPostal>03250</codigoPostal>
+        <tipoCocina>Vegetariana</tipoCocina>
+        <puntuacion>9.2</puntuacion>
+    </restaurante>
+    <restaurante id="337">
+        <nombre>Trattoria Goya</nombre>
+        <direccion>Paseo de la Alameda, 82</direccion>
+        <codigoPostal>30332</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>8.3</puntuacion>
+    </restaurante>
+    <restaurante id="338">
+        <nombre>Asador Mestalla</nombre>
+        <direccion>Calle de la Paz, 10</direccion>
+        <codigoPostal>08297</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>5.2</puntuacion>
+    </restaurante>
+    <restaurante id="339">
+        <nombre>Puerto Tomás</nombre>
+        <direccion>Plaza Mayor, 88</direccion>
+        <codigoPostal>46503</codigoPostal>
+        <tipoCocina>Marisquería</tipoCocina>
+        <puntuacion>5.9</puntuacion>
+    </restaurante>
+    <restaurante id="340">
+        <nombre>La Hacienda de Gerardo</nombre>
+        <direccion>Calle del Mar, 32</direccion>
+        <codigoPostal>03754</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>4.1</puntuacion>
+    </restaurante>
+    <restaurante id="341">
+        <nombre>Osteria Albufera</nombre>
+        <direccion>Plaza de España, 10</direccion>
+        <codigoPostal>08748</codigoPostal>
+        <tipoCocina>Italiana</tipoCocina>
+        <puntuacion>4.5</puntuacion>
+    </restaurante>
+    <restaurante id="342">
+        <nombre>Tapería Goya</nombre>
+        <direccion>Calle Colón, 40</direccion>
+        <codigoPostal>18664</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>2.7</puntuacion>
+    </restaurante>
+    <restaurante id="343">
+        <nombre>Pinchos Olivo</nombre>
+        <direccion>Avenida del Puerto, 61</direccion>
+        <codigoPostal>33883</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>4.2</puntuacion>
+    </restaurante>
+    <restaurante id="344">
+        <nombre>Jade Olivo</nombre>
+        <direccion>Calle Mercado, 129</direccion>
+        <codigoPostal>29748</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>9.5</puntuacion>
+    </restaurante>
+    <restaurante id="345">
+        <nombre>Cañas y Paco</nombre>
+        <direccion>Avenida del Puerto, 96</direccion>
+        <codigoPostal>28439</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>8.3</puntuacion>
+    </restaurante>
+    <restaurante id="346">
+        <nombre>Asador Olivo</nombre>
+        <direccion>Ronda Norte, 2</direccion>
+        <codigoPostal>29725</codigoPostal>
+        <tipoCocina>Asador</tipoCocina>
+        <puntuacion>3.6</puntuacion>
+    </restaurante>
+    <restaurante id="347">
+        <nombre>Dragón Giralda</nombre>
+        <direccion>Calle de la Paz, 62</direccion>
+        <codigoPostal>48589</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>7.3</puntuacion>
+    </restaurante>
+    <restaurante id="348">
+        <nombre>Terraza Turia</nombre>
+        <direccion>Gran Vía, 74</direccion>
+        <codigoPostal>28839</codigoPostal>
+        <tipoCocina>Mediterránea</tipoCocina>
+        <puntuacion>6.1</puntuacion>
+    </restaurante>
+    <restaurante id="349">
+        <nombre>Bambú Marta</nombre>
+        <direccion>Gran Vía, 65</direccion>
+        <codigoPostal>36426</codigoPostal>
+        <tipoCocina>China</tipoCocina>
+        <puntuacion>8.8</puntuacion>
+    </restaurante>
+    <restaurante id="350">
+        <nombre>Tapería Carmen</nombre>
+        <direccion>Paseo de la Alameda, 99</direccion>
+        <codigoPostal>46242</codigoPostal>
+        <tipoCocina>Tapas</tipoCocina>
+        <puntuacion>3.3</puntuacion>
+    </restaurante>
+    <restaurante id="351">
+        <nombre>Smash Retiro</nombre>
+        <direccion>Avenida del Puerto, 68</direccion>
+        <codigoPostal>08264</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>7.0</puntuacion>
+    </restaurante>
+    <restaurante id="352">
+        <nombre>Smash Goya</nombre>
+        <direccion>Ronda Norte, 44</direccion>
+        <codigoPostal>28791</codigoPostal>
+        <tipoCocina>Hamburguesería</tipoCocina>
+        <puntuacion>6.4</puntuacion>
+    </restaurante>
+    <restaurante id="353">
+        <nombre>La Hacienda de Albufera</nombre>
+        <direccion>Gran Vía, 47</direccion>
+        <codigoPostal>28898</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>5.3</puntuacion>
+    </restaurante>
+    <restaurante id="354">
+        <nombre>Taquería Marta</nombre>
+        <direccion>Calle San Vicente, 18</direccion>
+        <codigoPostal>15597</codigoPostal>
+        <tipoCocina>Mexicana</tipoCocina>
+        <puntuacion>9.6</puntuacion>
+    </restaurante>
+    <restaurante id="355">
+        <nombre>Mesón Cervantes</nombre>
+        <direccion>Calle del Mar, 37</direccion>
+        <codigoPostal>46931</codigoPostal>
+        <tipoCocina>Española</tipoCocina>
+        <puntuacion>5.5</puntuacion>
+    </restaurante>
+    <restaurante id="356">
+        <nombre>Sushi Gerardo</nombre>
+        <direccion>Calle Mercado, 26</direccion>
+        <codigoPostal>41288</codigoPostal>
+        <tipoCocina>Japonesa</tipoCocina>
+        <puntuacion>8.6</puntuacion>
+    </restaurante>
+</restaurantes>

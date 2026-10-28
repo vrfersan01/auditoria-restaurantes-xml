@@ -1,0 +1,22 @@
+# Compilados de Eclipse
+bin/
+*.class
+
+# Configuración local de Eclipse
+.metadata/
+.settings/
+.recommenders/
+
+# Temporales del guardado seguro y copias de seguridad
+*.tmp
+copias/
+
+# Ficheros grandes (el enunciado dice que no se entregan)
+datos/restaurantes_grande.csv
+salida/grande.xml
+salida/rendimiento.txt.tmp
+salida/apuntes.txt
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

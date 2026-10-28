@@ -1,0 +1,32 @@
+------>AÑADIR UN NUEVO CAMPO, por ejemplo abierto/cerrado:
+
+a) Campo: 
+Añadir ABIERTO("abierto", "abierto", "Abierto o cerrado");
+b) Restaurante: el atributo, un case en cada switch y 
+	-private String abierto;
+	-en getTexto
+	case ABIERTO -> abierto;
+	-en setTexto
+	case ABIERTO -> abierto = texto;
+	-su getter y setter.
+c) Validador: una regla nueva, E08.
+-"E08" a CODIGOS_ERROR
+-en validar antes de E07
+if (error == null)
+{
+    error = reglaE08(valores, linea, original);
+}
+-Añadir regla:
+private static Incidencia reglaE08(List<String> valores, int linea, String original)
+{
+    Incidencia error = null;
+    String abierto = valor(valores, Campo.ABIERTO);
+
+    if (!abierto.equalsIgnoreCase("abierto") && !abierto.equalsIgnoreCase("cerrado"))
+    {
+        error = new Incidencia(linea, "E08", "Valor de abierto inválido: \"" + abierto + "\"", original);
+    }
+    return error;
+}
+
+------>LEER UN FICHERO XML --> Usar una funcion nueva DOM O SAX

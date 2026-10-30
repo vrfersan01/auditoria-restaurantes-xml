@@ -9,8 +9,7 @@ public enum Campo {
 	DIRECCION("direccion", "direccion", "Dirección"),
 	CODIGO_POSTAL("codigo_postal", "codigoPostal", "Código postal"),
 	TIPO_COCINA("tipo_cocina", "tipoCocina", "Tipo de cocina"),
-	PUNTUACION("puntuacion", "puntuacion", "Puntuación"),
-	ABIERTO("abierto", "abierto", "Abierto o cerrado");
+	PUNTUACION("puntuacion", "puntuacion", "Puntuación");
 	
 	private final String columnaCsv;
 	private final String etiquetaXml;

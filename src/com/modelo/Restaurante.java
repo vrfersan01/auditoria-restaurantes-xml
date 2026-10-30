@@ -12,7 +12,6 @@ public class Restaurante {
 	private String codigoPostal;
 	private String tipoCocina;
 	private double puntuacion;
-	private String abierto;
 	
 	public Restaurante()
 	{
@@ -42,7 +41,6 @@ public class Restaurante {
 			case CODIGO_POSTAL -> codigoPostal;
 			case TIPO_COCINA -> tipoCocina;
 			case PUNTUACION -> puntuacionTexto();
-			case ABIERTO -> abierto;
 		};
 		return texto;
 	}
@@ -57,7 +55,6 @@ public class Restaurante {
 			case CODIGO_POSTAL -> codigoPostal = texto;
 			case TIPO_COCINA -> tipoCocina = texto;
 			case PUNTUACION -> puntuacion = Double.parseDouble(texto);
-			case ABIERTO -> abierto = texto;
 		}
 	}
 
@@ -138,12 +135,6 @@ public class Restaurante {
 		this.puntuacion = puntuacion;
 	}
 
-	public String getAbierto() {
-	    return abierto;
-	}
-	public void setAbierto(String abierto) {
-	    this.abierto = abierto;
-	}
 	
 	@Override
 	public String toString() {

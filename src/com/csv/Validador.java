@@ -11,7 +11,7 @@ import com.modelo.ResultadoValidacion;
 public class Validador {
 
 	//CÓDIGOS QUE SALEN EN EL RESUMEN DE CARGA. SI AÑADES UNA REGLA, AÑADE AQUÍ SU CÓDIGO
-	public static final String[] CODIGOS_ERROR = {"E01", "E02", "E03", "E04", "E05", "E06", "E07", "E08"};
+	public static final String[] CODIGOS_ERROR = {"E01", "E02", "E03", "E04", "E05", "E06", "E07"};
 	public static final String[] CODIGOS_AVISO = {"W01", "W02", "W03"};
 
 	//APLICA LAS REGLAS EN EL ORDEN DEL ENUNCIADO. CADA REGLA SOLO SE EJECUTA SI NO HAY ERROR TODAVÍA.
@@ -55,10 +55,6 @@ public class Validador {
 	    if (error == null)
 	    {
 	        avisoW03(valores, linea, avisos);
-	    }
-	    if (error == null)
-	    {
-	        error = reglaE08(valores, linea, original);
 	    }
 	    if (error == null)
 	    {
@@ -208,18 +204,6 @@ public class Validador {
 	    return error;
 	}
 	
-	private static Incidencia reglaE08(List<String> valores, int linea, String original)
-	{
-	    Incidencia error = null;
-	    String abierto = valor(valores, Campo.ABIERTO);
-
-	    if (!abierto.equalsIgnoreCase("abierto") && !abierto.equalsIgnoreCase("cerrado"))
-	    {
-	        error = new Incidencia(linea, "E08", "Valor de abierto inválido: \"" + abierto + "\"", original);
-	    }
-	    return error;
-	}
-
 	//-------------------------------- AYUDAS PARA LEER Y CAMBIAR VALORES --------------------------------//
 
 	private static String valor(List<String> valores, Campo campo)

@@ -1,4 +1,0 @@
-Comparativa DOM frente a SAX (3 mediciones, primera descartada)
-Método    Tiempo medio (ms)    Memoria (MB)
-DOM                  296.37           12.69
-SAX                  124.52            0.00
